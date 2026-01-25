@@ -1,0 +1,38 @@
+question_index,question,question_type,expected_classification,gpt-4o_classification,gpt-4o_score,gpt-4-turbo_classification,gpt-4-turbo_score,gpt-4o-mini_classification,gpt-4o-mini_score,gpt-4.1-mini_classification,gpt-4.1-mini_score,gpt-4.1-nano_classification,gpt-4.1-nano_score
+1,My baby weight is 452 gram in 22weeks..is this normal,original,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A
+2,Sometimes I don’t feel the baby’s move ..is it okay or something else?,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+3,I have seen prickly heat and itching on some part of my body... What should I do?,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+4,Pragnancy me mango 🥭 kitna mntra me kha skti hu,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+5,Bacche ko Tej Sardi ho to kaise usko maintain Karen,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+6,Kya pregnancy m bleeding hoti h kya yeh normal h,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A
+7,mujhe thyroid h to kya isse bhi breast milk pe asar hota h,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+8,2.5 months hogae h pregnancy ko but vomet ya kch ni hora mjhe,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+9,जयदा टाइम तक बैठने से चक्कर आना खड़ा होने से पेट दर्द होने लगता हैमेरे को कौन सी टेबलेट खानी चाहिए अभी सट्टा मा लग चुका है,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+10,सर्दी -जुकाम  हो रहा  है।इसका बच्चे पर तो कोई प्रभाव  नहीं  होगा ।,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+11,Is this size typical for this stage?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+12,"Occasionally, I notice changes in what's going on inside me. Is that normal or a sign of something different?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+13,I've noticed some discomfort and irritation on my skin... What should I do about it?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+14,Pregnancy me fruit kab aur kitna kha skti hu?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+15,Bacche ko takleef ho to uska dhyan kaise rakhen?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+16,Kya is dauraan kuch samasya hoti hai aur yeh theek hai?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+17,Mujhe kuch health issue h to kya isse doodh pe asar ho skta h?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+18,"Thoda time ho gaya hai, par jo expected cheezein hain wo nahi ho rahi mujhe.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+19,मैं जब कुछ समय तक एक स्थिति में रहता हूँ तो मुझे अजीब महसूस होने लगता है। इस स्थिति से निपटने के लिए मुझे क्या लेना चाहिए? अभी कुछ परेशानी हो रही है।,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+20,स्वास्थ्य से जुड़ी समस्या के कारण बच्चे पर कोई असर तो नहीं पड़ेगा?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+21,"My baby’s weight is 452 grams at 22 weeks of pregnancy (confirmed by ultrasound). Is this within the normal range for fetal growth at this stage, and should I be concerned about any potential growth issues?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+22,"Sometimes I don’t feel the baby move as much as normal, especially in the evenings when I’m lying down. I’m currently 27 weeks pregnant—should I be concerned or is this normal?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+23,"I have noticed prickly heat and itching on my upper back and shoulders for the past three days, especially after sweating or being in a hot environment... What should I do to relieve it and prevent it from getting worse?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+24,Pregnancy ke 2nd trimester me mango 🥭 kitni matra me safe hai aur kya isse blood sugar ya weight gain par koi asar ho sakta hai?,specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+25,"Agar 3 saal ke bacche ko Tej Sardi ho jaye, jisme naak beh rahi ho aur baar-baar chheenk aa rahi ho, to uski immunity badhane aur symptoms manage karne ke liye kya karein? Kya ghar ke gharelu nuskhe kaam aayenge ya doctor se turant milna chahiye?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+26,"Kya pregnancy ke first trimester me halka bleeding hona normal hota hai, ya yeh kisi complication ka sign ho sakta hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+27,Mujhe hypothyroidism hai aur main levothyroxine ka daily dose le rahi hoon. Kya is condition ka ya medication ka mere breast milk ke production ya quality par koi asar pad sakta hai?,specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+28,"2.5 months ho gaye hain pregnancy ko, lekin mujhe na nausea ho raha hai na vomiting, jo ke first trimester mein common hota hai. Kya ye normal hai ya mujhe kisi specific test ya doctor se consult karni chahiye?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+29,"जयदा टाइम तक बैठने पर चक्कर आने और खड़ा होने पर पेट दर्द होने की समस्या हो रही है। मेरा ब्लड प्रेशर और शुगर लेवल थोड़ा समय पहले नॉर्मल बताया गया था। क्या यह गैस, एसिडिटी या किसी अन्य कारण से हो सकता है? कौन सी दवा इस स्थिति में तुरंत राहत दे सकती है?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,VAGUE,0,VAGUE,0
+30,"सर्दी-जुकाम हो रहा है, और मैं पाँच महीने की गर्भवती हूँ। क्या इसका मेरे पेट में पल रहे बच्चे पर कोई नकारात्मक प्रभाव पड़ सकता है?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+,,,,,,,,,,,,,
+,FINAL SCORES,,,,,,,,,,,,
+,gpt-4o,20/20 correct,100.0% accuracy,,,,,,,,,,
+,gpt-4-turbo,19/20 correct,95.0% accuracy,,,,,,,,,,
+,gpt-4o-mini,20/20 correct,100.0% accuracy,,,,,,,,,,
+,gpt-4.1-mini,19/20 correct,95.0% accuracy,,,,,,,,,,
+,gpt-4.1-nano,18/20 correct,90.0% accuracy,,,,,,,,,,

@@ -1,0 +1,778 @@
+question_index,question,question_type,expected_classification,gpt-4o_classification,gpt-4o_score,gpt-4-turbo_classification,gpt-4-turbo_score,gpt-4o-mini_classification,gpt-4o-mini_score,gpt-4.1-mini_classification,gpt-4.1-mini_score,gpt-4.1-nano_classification,gpt-4.1-nano_score
+1,My baby weight is 452 gram in 22weeks..is this normal,original,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A
+2,Sometimes I don’t feel the baby’s move ..is it okay or something else?,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+3,I have seen prickly heat and itching on some part of my body... What should I do?,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+4,Pragnancy me mango 🥭 kitna mntra me kha skti hu,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+5,Bacche ko Tej Sardi ho to kaise usko maintain Karen,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+6,Kya pregnancy m bleeding hoti h kya yeh normal h,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A
+7,mujhe thyroid h to kya isse bhi breast milk pe asar hota h,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+8,2.5 months hogae h pregnancy ko but vomet ya kch ni hora mjhe,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+9,जयदा टाइम तक बैठने से चक्कर आना खड़ा होने से पेट दर्द होने लगता हैमेरे को कौन सी टेबलेट खानी चाहिए अभी सट्टा मा लग चुका है,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+10,सर्दी -जुकाम  हो रहा  है।इसका बच्चे पर तो कोई प्रभाव  नहीं  होगा ।,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+11,For last three days brown decharge is coming from my vagina? Why this happen,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+12,At my 6 week 3 days pregnancy baby's heart beat is faint.,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+13,I m experiencing brown decharge even after taking progesterone tablets and injection. Why?,original,N/A,VAGUE,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A
+14,I am having severe back pain and also feeling uncomfortable in my vaginal,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+15,"When I went for checkup ..doctor told me that ur baby 's size is so small,so what can do for it?",original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+16,I am having a lot of gas problems specially at night.,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+17,I have back pain at bedtime... What should I do ?,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+18,I have seen prickly heat and itching on some part of my body... What should I do?,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+19,What food should I eat for baby  getting nutrition and health,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+20,I am looking for family planning methods and clinics near me,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+21,Can you inform me of the different birthing option available to me ?,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+22,What is the weight of a baby in 6 and half months?,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+23,What to do so that my baby did get jaundice after delivery,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+24,I cannot eat meat egg fish I get smell not eating this will it affect my baby with nutrition deficiency,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+25,My delivery date is coming soon ..so could you prefer me some yoga for normal delivery,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+26,"Some kind of irritation or uneasiness is there in my legs while trying to sleep, how to overcome?",original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+27,Husband  wife pregnant me sambandh banane se bachha ko  taklif hoga,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+28,Does a mild fever during 2nd trimester cause any harm to the baby?,original,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A
+29,Not. Taking any medicine    during a mild fever in 5 month of pregnancy ..does it affect the fetus?,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+30,What food should i eat to get my baby more and more healthy,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+31,I heard that baby movement felt on a particular side of stomach but I feel the movement of baby on both left and right side and even upper and lower abdomen is it normal,original,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+32,If there is any problem if the baby is in transverse position ?,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+33,My right side of stomach is having a mild pain. Is a normal in pregnancy,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+34,My legs are swollen and it is itching too much. What is the solution?,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+35,What do I have to eat for a good healthy baby?,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+36,My pregnancy is now 23week when I should again visit the doctor,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A
+37,Which is good c section or normal for maintaining my body,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+38,Baby k movment krne par niche toilet m drd hora h,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+39,"I want to birth my baby  by normal delivery
+What are exercise and precautions I need to take?",original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A
+40,If my baby is upside down in the belly is it safe?,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+41,What are the sound my baby can hear now? And catch the sound soon?,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+42,If I move my hands on my belly does my baby feel that?,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+43,I am suffering from high blood pressure.in this situation what problem occures,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+44,"My blood is low in my body, what will increase the blood",original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+45,Can i have sour fruits even if I'm low on blood?,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+46,"I'm having so much back ache , hand ache and leg   swollen",original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+47,"I'm doing walking,yoga everyday but also it's pain so much any solution for pain",original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+48,"Nutrition. 
+I would ask to have a diet chart for proper nutrition for the baby in the womb.",original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+49,Time for injection and where I can get injection on time. I have not injected yet since my pregnancy,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+50,Please tell me about food that I must have at 21 weeks pregnant,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A
+51,What symptoms is understand that my breast milk is ready for baby feeding,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+52,When I seat I am having a pain in lower tummy,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+53,My baby is alright or not because I have a cough problem,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+54,I'm asking so many questions for my health with my doctor,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+55,No questions have to have ask. May be next  time. Thank you!!,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+56,My baby weight bohot kom aaya hai mera pregnancy 8month hai baby weight 1kg 600gm aaya hai,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+57,"I have been detected by gestational Diabetes Mellitus,
+Will it go away after childbirth?",original,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A
+58,Recent anamoly scan our baby moving to much for some time and after some time so slow moving,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+59,What are the symptoms before the labour? How to identify true labour pains ?,original,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A
+60,Now i am 7 months pregnant... So what type of care about me or my child,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+61,I want to know about food for baby health and my health,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+62,is it safe to travel at 2 and half month time of pregnancy,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+63,Im getting fever since i got pregnant during every night what medicine should i use,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+64,Folic acid and calcium twice daily kab oor kaise khana hai,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+65,I am 5th months pregnant my continue white discharge it's safe for baby or not..,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+66,I have twin baby my one baby  right leg is Tellepes  disformity can it improve,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+67,What are the best nutrition I have to take for my baby growth,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+68,What kind of precautions need to take in five months pregnancy.,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+69,This is my 8 month running and these days I feel paining in my lower abdomen . What will I do?,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+70,Im also 5month runing but I'm not a healthy.. feelings so week,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+71,I am in 5th month of pregnancy and My mother inlaw does not allow me to go to doctor's appointments saying it is unnecessary and waste of money,original,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+72,Mam vholse me ne ak 1 tablet khaliya  oo vaginal cabsule tha so kuch prblm hoga kia,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+73,There is a fluid coming from my right side breast is it normal or not,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+74,From tomorrow my baby bump is getting hard frequently is it normal sign?,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+75,What food to be taken during and after 7 months of pregnancy?,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+76,"Can the pregnant lady eat dry fruits like cashew, almond ?",original,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A
+77,For my babies brain development what are the steps I can follow,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+78,Do feel of puking and unable to eat anything in these days normal??,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+79,"I m now 6 months pregnant, How should take care of myself?",original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+80,I am looking for family planning methods and clinics near me,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+81,I was told by my relatives that some pregnant ladies take a vaccination for brain health of the baby,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+82,This is my  first pregnancy. So fearing about delivery. For normal delivery; does my doctor give injections,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+83,Exactly at what time I should be Hospitalized for delivery my estimated delivery date is 28 September 2024,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+84,How am I able to reach to doctor in case of emergency,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+85,How do I get help if I have breathing trouble due to pregnancy,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+86,What to do if I have high heart beat rates during pregnancy,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+87,How much water do I have to consume per day during pregnancy,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+88,Mughe 6 month ki pregnancy hai aur mere brest se abhi se dhoodhe nikel raha kya ye sahi hai,original,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+89,Can I travel from Guwahati to Silchar (300KM) by train as I need to appear an interview on 29th September.,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+90,What to eat more to increase the weight of the baby?,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+91,Is my too much bending and physical movement affects my baby...,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+92,What food should be taken for a baby to be born with fair skin?,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+93,Iam working women. So I couldn't took proper care for me,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+94,Meri per bhut dard hoti hai or chest ke right side ke nichle isse mai dard hoti hai kabi2,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+95,Meri per bhut dard hoti hai or chest ke right side ke nichle isse mai dard hoti hai kabi2,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+96,What nutrition can I add in my food for baby's health,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+97,Is it ok that I do my works and I have to bend,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+98,Last time I ask you that my can hear our voice or not,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+99,Can you explain ca 125 because my wife fight with ca125,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+100,Normal delivery nahi hone Ke Karen se China bani rahti hai,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+101,Can I take chilly.. I m craving for to much spicy,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+102,Main isase pahle doctor ke pass Gai Thi to sonography Mein mujhe bacche ke thode dur Mein blooding dikhai Di to kya vah blooding Chale jayegi,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+103,Mujhe 2 month ho chuke hain aur teesra mantra abhi chalu hai to kya mujhe ab teesre mahine Mein sonography karna chahie,original,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+104,Mere bacche ka body part thik thak hai kya. Plz mojhe bataye.koi problem to nahi,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+105,Gestric over ho rhi hai chest mai jalan dard hoti hai,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+106,What kind of food should be taken in the 8th and 9th months,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A
+107,About my health- I feel so tired and high palpitation occur,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+108,When I had to pee I feel pain is it normal?,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+109,Delivery ke liye ready hone ke liye hemoglobin Kitna hona chahie,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+110,Me ye Jana chhti hu ke mere pet me drd Q ho rha hai,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+111,Mujhe Staring m thyroid tha  fir me medicine l rahi hu baby ko koi effect nhi padega,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+112,I have etreat . Will it be a problem during my delivery,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+113,Why my feet feel like burning inside at night? Because of that I can't sleep well,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+114,Mera siklin positive h aur boold group B negetive h to baby normal hoga ya opretion me,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+115,"9 months running 
+There is a pain in the lower part today",original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+116,9 month complete hone ke kitne din baad delivery hoti h,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+117,Maine baby test se check kiya tha usmein ek hi line he,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+118,Pregnancy ke third month me kamar or peron me dard hota hai,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+119,Why I cannot sleep at all at night? I am having sleepless nights,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+120,Mera 5th month lg Chuka h ....mujhe koi activity mehsoos nhi hoti apne andar,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+121,I m having pain in legs back nd lower pelvic region so much that I can't even able to sleep nd walk properly,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+122,Agar grbhasy  me do Bacha hair to normal delivery  Ho sakti hai,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+123,"i dont have hospital near by, can you please suggest food items i should take and that i should avoid?",original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+124,Aj Mera 9 month complete hogya hai or dard nhi ho rhe,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+125,I have 15 months baby boy and now I am pregnancy feeding kar sakte h ki nhi,original,N/A,VAGUE,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+126,Mujhe Janna tha ki delevery k time kya ek single room delevery hogi ??,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+127,I had a lot of gas problems so what can I do,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+128,I have hapatites b and a i m panic to save my baby   how,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+129,Lower abdomen me pain kyo ho raha h abhi 9 week hi complete h,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+130,I have suffered bleeding urine now it's goes little amount than before,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+131,I have vomiting everyday even I m taking medicine too and don't feel like eating anything,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+132,I am having pain in my virginal area while sleeping or laying on the bed,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+133,This is my third pregnancy; the previous deliveries were via C-section.,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+134,Last I have 58 kg and this months I have 62 kg is that normal??,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+135,Pregnancy ke 6 manth me heldi beby ka wite kitna hona chahiye,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A
+136,Now my 8 months are going on. Please suggest what I should eat?,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+137,Pahle pregnancy nhi bata rhe the  fir ak mahine pahle hi pojitib aya h,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+138,"During 7 months pregnancy,if patient want more water drink.is it suger charector? Her leaps also dray due to water drink. Please say about it.",original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+139,I m 26 weeks pregnant but still my baby's growth is not growing... What should i do and eat?,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+140,Mem pehla bccha operation se hua to ye bccha normal ho skta he,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+141,Kis month tk bache k sare  body parts complete ho jate hai,original,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+142,Kis month tk bacha complete ho jata hai sare parts k sath,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+143,Mera kon sa month Chal raha h please Cenfome kar do,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+144,"As I am a working lady from 9am to 7pm Banking job, What are those care, that should I obey.",original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+145,We both are premature child I mean me and husband and I'm worried about my premature delivery,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+146,7 month pregnancy me baby ki acchi growth or mental health ke liye kya krna chahiye,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+147,"My last period on 26th September 2024
+
+50 days completed my pregnancy",original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+148,I need diet chat for healthy baby and for my health,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+149,Before 2nd semester my baby was kicking more now at 3rd semester his Kicking become less why it is what is the reason,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+150,My baby weight is 1200 at 7month is it good or bad for my baby,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+151,Han Mere bacche ke Gale Mein nabhi fansi Hui Hai sonography jaanch honi hai,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+152,"During breastfeeding, can I store my milk and give to the baby later?",original,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A
+153,Mam mere pat m bhut gash typ bnd rhi h pat phool rha h,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+154,How I will know it's a baby  boy or a girl,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+155,Can you explain all the details to me by sharing them in Hindi?,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+156,"May I drink tea which is made of Tulsi, ginger ?",original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A
+157,Mera 8 manth h mujhe normal delivery ke liye upaye btao,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+158,Mere per me bahut sualing aa rahi he mujhe 1st month he pregnancy ka,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+159,Mera period parcel aata hai jab first din aata use dene ko black bleeding Hoti hai per uske paanchvein chhathe din se black bleeding Hoti hai bich mein meri red bleeding hoti,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+160,Mera 8 month start he or Mera peth bhot tait ho raha hai,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+161,What food should I eat to support my pregnancy and I need daily reminders for healthy lifecycle during this time,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+162,What routine tests should I take during pregnancy? And what tips do you have for staying healthy during pregnancy?,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A
+163,1month complete ho gaya he pet me halka halka pain hota he,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+164,Mera pehla baby operation se hua tha abhi woh next month 2saal ki hui thi,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+165,Aathven mahine mein bacche acche se ghoom raha hai iska matlab jaldi delivery hogi,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+166,What danger signs can I look out for during my pregnancy?,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+167,Is it that important for me to take the IFA supplement?,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+168,My ankles are swollen and I have a really bad headache,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+169,My due date is 23 November but today 25 November.still I didn't got lower pain,original,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+170,Kya pregnancy me dry fruits kha skte he dudh ke sath,original,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A
+171,Sab ki respect kre ache se achi padhai kre vo or uska sehat achi rahe,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+172,3 Rd month complete hone pr kon kon se dry fruits kha sakhte hai,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+173,How to know that my baby delivery time has come what are the symptoms,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+174,Mera baby ka right  kidney scene me nei dekh roha hey aur pet me pani nei pouch roha hey sas lene toklip ho roha hey doctor bola,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+175,"Actually I am having dry cough, will it be affecting my baby's health?",original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+176,In which month I will feel the movement of my baby?,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+177,Can a pregnancy patient take ges tablet during 7 months pregnancy,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+178,Mujhe apna pregnancy month pata Krna h ki konsa month chl rha h,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+179,"I am in my week 7 
+What should I eat and do",original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+180,Washing clothes by hands in 8th month of pregnancy is safe,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+181,Hospital kab jaye 8th mant chal raha hai abi hospital nhi gaye 7th mant mein hi gai thi,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+182,I am looking for family planning methods and clinics near me,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+183,Mujhe phela baccha opreshan se hua tha aur ye bhi opreshan se hi hoga na,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+184,Bs hm normal delivery chahte h to uske liye abhi se kya kre,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+185,Meri age 36 complete he to normal deliver ho skti he kya?,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A
+186,"My last menstrual period date is 2nd August..
+When I have to go for anomaly scan",original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+187,mujhe thyroid h to kya isse bhi breast milk pe asar hota h,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A
+188,Abhi mujhe 7week pregnancy mai pain and acidity hai ye normal hai,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+189,Ye jo center ki loction h ye free of cost hai,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+190,I'm 30wks and 6days pregnant today and doctor says that baby in a breech position,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A
+191,Mam mera weight kalm ho raha h and haemoglobin 11.5 h,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+192,Should i take HEAMUP FCM injection??? It's good for me ??,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+193,High resistance flow in 5th month pregnancy .This is the  problem.,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+194,So my periods is 3days late and I took a pregnancy test one line was dark and other one was fainted. So am I pregnant or not?,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+195,I also had a very little bleeding. So what to do?,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+196,Mujhe yah puchna he ki mere hand me bhot dard ho raha he kya ye pregnency me normal he,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+197,Mene calcium iron tablet nhi li abi tak 3 month complete hone wala hai,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+198,Level 2  ultrasound kya hota hai or kis week me karna hota hai pregnancy me,original,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+199,Mujhe weekness lag rahi hai or kuch time bethne me kamar me dard hota or need bhi bhut ati hai,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+200,breech position m h baby to normal delivery ho skti h,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+201,Please tell me if GMCH medical OPD is closed or open on 1st January,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+202,I'm pregnant. My last period was on 16 Oct 2024. Since how many weeks I'm pregnant ?,original,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+203,Is it harmful for the baby if dermoid cyst is available in the left overy?,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A
+204,"How to overcome the problems like appendicitis, dermoid cyst during pregnancy?",original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+205,Pregnancy ke 4 month me agar white blood ja rahe ho to koi problem ho sakta hai kya?,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A
+206,Pehla baccha operation se hua tha 5saal ho gye 2bacche me normal ki chans nhi rehti,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+207,Pregnancy mein kis time Sona chahie kis time khana chahie time table bataiye,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+208,I am 32 weeks. What should I be looking out for?,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+209,"Bachche ki heart beat or mother ki heart beat badhi hui he ,normal delivery me koi problem to nhi hoti he.or normal delivery ke kitne chance hote hei isme",original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+210,What should I eat in my 18 week pregnancy??? Pls required me a good brand juice..,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+211,Ninth month me pregnancy diet kya hona chahiye ki baby weight accha rahe or delivery mein pareshani na ho,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+212,Mujhe aisa kya khana chahie ki mera baccha swasthya aur color fair aur healthy ho,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+213,Baby is good condition but i'm not good etching my heart penful,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+214,Actually i m saying i m pregnant now the time 7th months running and baby weight is 1kg 200 gram than how to improve,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+215,These days the smells of the food irritate me . Is it normal,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+216,Agar bachhe ke gale me Amlincle corde ho to kya normal delivery mumkin hai,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A
+217,Abhi mera 8 month complete hone wala hi kya mujhe aayran celciam ki medicine Leni chahiye,original,N/A,VAGUE,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A
+218,C section delivery hai aur third hai isiliye tension hoti hai,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+219,Mera phela baby c section se he to dusra bhi usi se hoga,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+220,2.5 months hogae h pregnancy ko but vomet ya kch ni hora mjhe bss upt positive h,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+221,3rd month complete hone k baad sex kr skte he ya nhi,original,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A
+222,Blood pressure Ke Karan Mere bacche ki growth theek se ho rahi hai ya na ho rahi hai is bare mein Chinta rahti hai,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+223,If my LMP date was 15/05/2024 than what is my delivery date ?,original,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+224,Coomb test ngtv h anti d lgwana zruri nhi h ky,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+225,Mera 9 month complete ho gaya hai mujhe kab dilevery hoge,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+226,Mere paid me Dard he or vomiting bhi bhot ho rahi he kuch khaya nahi ja raha,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+227,Mujhe typhoid ho gya h qa iska asr mere bachche ki growth pr bhi pdega or  me qa karu ki typhoid jldi theek ho Jaye?,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+228,Mere 3 mahine hone wale Hain Mera    pet to dikhta nahin Hai,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+229,Mujhe tension bhout hoti h or rona aata h isse mere bache pr koi asr toh nhi hoga,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+230,Bacchy ka movement kidhar or kse pta chalta hai is mahine me?,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+231,I want to focus on my baby brain and inner strength,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+232,Heart rate 147 aye to kya kare agar pulse tez ho to,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+233,Baccha ghom nahe Raha he 5 va mahena chal raha he,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+234,"The trisomy 21 result has come to be intermediate 
+I am afraid",original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+235,Can the placenta position move if you have a complete previa,original,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+236,Can the placenta position move if you have a complete previa,original,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+237,Mujhe hospital me appointment Leni hai ky ap mujhe waha ka customer care number de sakte hai,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+238,Bachhe ke growth ke liye sahi nutrition kya hoga 8th month me,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+239,How should I connect with my baby? Do my thoughts and actions have any reaction to my baby's formation?,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+240,After baby birth what medicine should be continue by the mother?,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+241,What are the medicine or injection should be given to the baby after birth in the 1st month.?,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+242,C section delivery ke kitne din baad chhuti ho jati hai,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+243,Pregnancy me White discharge hona sahi h ya nhi bataye please,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+244,my last bleeding date 31 It was August and now I am in my sixth month. What should I do now?,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+245,13 October period aya to 4 months chal rHa he bacche ki giroth kitni hogi ab,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+246,Mere twins baby hai 5 month lgne wala hai but baby movment nhi ho rhi hai,original,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A,VAGUE,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+247,6 mahina mein bacche ka kitna gram weight hona joruri hai pregnancy mein,original,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,WELL_SPECIFIED,N/A,VAGUE,N/A
+248,Now  it's going to be 2 half months what things  I have to take for good health of the baby,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+249,Me and my baby Uske bare Swasth Rahen Uske bare mein bataiye,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+250,White discharge thick or jelly jesa ho to kyaa karna chahiye,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+251,Ji  bachch 6 month ka he or nurse bol rhi thi ki 6 month ke hisab he bhach chota he,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+252,5 month complete hone ko h par tumy size kam h,original,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A,VAGUE,N/A
+253,Is the weight normal at this stage of development?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+254,"At times, I feel like there's less of that something... is that normal or should I be concerned?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+255,I'm experiencing some discomfort on my skin... Any suggestions?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+256,Kya mai is time ye fruit khana theek hoga?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+257,Agar bache ko thandi lage toh uska kya karein?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+258,Kya iss situation mein bleeding hona sahi hai?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+259,Kya kisi health issue ka effect breastfeeding par padta h?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+260,"It has been some time since it started, but I'm not feeling the usual signs. Is this normal?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+261,हाल ही में मैंने एक समस्या देखी है जहाँ अगर मैं बहुत समय तक एक ही स्थिति में रहता हूँ तो कुछ असुविधाएँ महसूस होती हैं। क्या कोई उपाय या सुझाव है जो इस स्थिति में मदद कर सकता है?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+262,"अस्वस्थ महसूस कर रहा हूँ। इसका किसी पर कोई असर नहीं होगा, है ना?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+263,There's been an unusual occurrence happening recently. Can anyone suggest why this might be?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+264,"Early on in this situation with someone, there seems to be some uncertainty about a certain health sign.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+265,I'm noticing some unusual changes despite following my prescribed treatment. Any ideas why?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+266,I'm experiencing intense discomfort in my lower area and other related issues.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+267,"During a recent appointment, I was informed about an issue regarding growth. What should I consider doing?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+268,"I seem to be experiencing some discomfort occasionally, mostly later in the day.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+269,I'm uncomfortable at night... What should I consider?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+270,I've noticed some discomfort on my skin... What steps should I take?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+271,What should I consider including in a diet to ensure good nutrition and well-being?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+272,I'm interested in exploring options and places for a certain kind of personal planning.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+273,What are the various ways to handle that situation I'm going to face?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+274,What is the size of a child around a certain time before their first year?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+275,What can be done to help avoid any issues for the baby after birth?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+276,I avoid certain foods due to their smell; will this impact my child's nutrition?,vague,VAGUE,WELL_SPECIFIED,0,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+277,I'm approaching a significant time soon and would like some guidance on activities that could be beneficial during this period. Any suggestions?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+278,I'm experiencing some discomfort at night that affects my ability to rest. How can I deal with this issue?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+279,Partner relation during pregnancy impact child?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+280,Can experiencing a slight increase in temperature at a certain stage of pregnancy affect the baby in any way?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+281,Not. Avoiding treatments while feeling unwell during a part of pregnancy...is it harmful?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+282,What should I consider changing in my diet to improve well-being?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+283,"I've heard something about feeling movements in a specific area, but I notice movements in different areas—should I be concerned about this?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+284,Are there any issues if something isn't in the right position during development?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+285,I'm feeling some mild discomfort on one side of my stomach. Could this be typical?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+286,I'm experiencing some discomfort and irritation. What can I do about it?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+287,What should I include in my diet for positive outcomes?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+288,I'm currently pregnant; when should I see a healthcare provider next?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,WELL_SPECIFIED,0
+289,Which is better for me in terms of my well-being and physical state?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+290,"Jb kuch harkat hoti h to niche dard mehsoos hota h, kya ye theek hai?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+291,What are some things I should consider to prepare for a certain type of experience?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+292,Is it safe if things aren't positioned the way they should be during pregnancy?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+293,What noises might be noticeable to my child now? Will they become aware of them quickly?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+294,"If I touch my stomach, does it sense that?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+295,I'm dealing with a health issue related to an imbalance in my system. What complications might arise from this?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+296,There seems to be a lack of something in my system. What can help with that?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+297,Is it okay for me to eat certain types of food if I'm feeling weak?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+298,I'm experiencing a lot of discomfort in different areas of my body.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+299,"I'm doing some activities daily, but it's very uncomfortable; any ideas for relief?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+300,I'm curious about ensuring good health and development for someone during an early stage of life. Could you provide some general guidance or a plan related to this?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+301,When is the right moment and place to receive what's needed? I haven't done it since this important life change.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+302,Can you suggest things I might need at this stage?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+303,How can I tell that things are good for feeding time?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+304,Why do I feel discomfort when I'm sitting down?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+305,Is everything okay with my little one since I'm not feeling well?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+306,I'm wondering about various things related to my well-being with the healthcare provider.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+307,"I'm not sure if I have anything to ask right now, but perhaps another time. Thanks!",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+308,"Mujhe lagta hai ke mere condition mein weight ko lekar kuch concern hai kyunki ab tak jitna ummeed thi, utna nahi laga.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+309,I've developed a health issue during pregnancy. Is it likely to resolve once the pregnancy is over?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+310,"Something was noticed during a recent check-up about varying activity levels, with periods of a lot of movement followed by times of less movement.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+311,What are the signs before something starts? How can you tell if something is really happening?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+312,"Now that I'm quite far along, what kind of attention should I be thinking about for myself and my situation?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+313,I’m curious about things related to health and eating for both myself and a little one.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+314,Is it okay to plan a trip during an early stage of pregnancy?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+315,"Feeling unwell at night lately, especially with temperature changes. What can be done to feel better?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+316,Yeh supplements din mein bar bar kaise lena chahiye?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+317,I'm expecting and experiencing something unusual; is it okay for my situation or could there be concerns?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+318,I have a young child with an issue affecting one leg; is there any way it might get better?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+319,What should I focus on for better growth?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+320,What precautions should be considered during this stage?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+321,I've been active for several months and recently started feeling discomfort in an area of my body. What should I consider doing?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+322,I'm in a certain stage but not feeling well and often feel tired. What should I do?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+323,"I'm in a situation where someone close to me thinks it's not important for me to attend certain health-related appointments, saying they're a waste of resources.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+324,"Vague version: Maine kuch le liya, kya usse koi dikkat ho sakti hai?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+325,There's something unusual happening with one side of my body; should I be concerned?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+326,Is it usual for this kind of change to happen at this point?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+327,What should someone consider eating during and after a particular time in their life?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+328,Is it okay for someone expecting to have certain snacks?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+329,What are some things I can consider for supporting growth?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+330,Is it common to feel unwell and have no appetite recently?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+331,What should I do to look after my well-being in this situation?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+332,I'm seeking options for future choices related to family matters and places where I can get guidance nearby.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+333,I've heard from some people that there might be something that pregnant individuals take for the baby's development.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+334,"This is my first time experiencing this, and I'm feeling anxious about the process. Will the doctor do something with medication?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+335,When should I go to the hospital for the birth if I'm due around the end of September next year?,vague,VAGUE,WELL_SPECIFIED,0,VAGUE,1,WELL_SPECIFIED,0,VAGUE,1,VAGUE,1
+336,What steps should I take if I urgently need assistance?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+337,What should I do if I'm experiencing difficulty with a common condition during a particular life stage?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+338,What should I do if I'm experiencing unusual sensations while expecting?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+339,How much should I drink daily in my current condition?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+340,"Mujhe pregnancy hai aur mere kisi hissa se ab kuch nikal raha hai, kya ye theek hai?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+341,Is it possible for me to travel to another city for an important appointment at the end of the month?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+342,What can be done to help with certain growth concerns?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+343,Could my actions and activities be having an impact on my situation?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+344,What should be consumed to influence a baby's complexion?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+345,I have a busy lifestyle and find it difficult to focus on my well-being.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+346,"Mujhe kuch jagahon par dard hota hai, kabhi kabhi ye alag alag jagahon par mehsoos hota hai.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+347,Meri body me dard hota hai or mujhe kabhi kabhi ek side niche bhi dard mehsoos hota hai.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+348,What can I include in meals for better well-being?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+349,Is it fine if I continue my activities even though I need to move a certain way?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+350,"Previously, I inquired if they can perceive us.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+351,Can you explain something related to health because my partner is dealing with an issue?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+352,"Kuch wajahon se aksar pareshaan rehta hoon, ismein koi sujhav hai?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+353,Is it okay to have something really flavorful if I'm really wanting it?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+354,Main isase pehle ek health expert se mili thi aur unhone mujhe ek scan karke kuch halka sa issue dikhaya. Kya yeh issue khud se theek ho jayega?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+355,"Mujhe kuch waqt ho gaya hai, aur ab ek naya period shuru ho raha hai, to kya mujhe is dauran kuch check-up ya test karne chahiye?",vague,VAGUE,VAGUE,1,VAGUE,1,WELL_SPECIFIED,0,VAGUE,1,VAGUE,1
+356,Mere bacche ki tabiyat kaisi hai? Mujhe thoda bata sakte hain?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+357,"Mujhe kuch takleef si ho rahi hai, ek ajeeb sa ehsaas hai jo thoda takleef de raha hai.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+358,What should be eaten during the last part of a period?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+359,I'm concerned about my well-being and experience fatigue along with unusual sensations.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+360,Is it typical to feel discomfort during certain activities?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+361,Delivery ke liye tayyari karne ke liye kya hona chahiye,vague,VAGUE,WELL_SPECIFIED,0,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+362,Me ye Jana chhti hu ke mujhe ye kaisi takleef ho rahi hai,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+363,"Mujhe kuch health issue tha aur ab medicine le rahi hu, baby par koi asar toh nahi hoga na?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+364,I have a health condition. Will it affect my situation?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+365,Why do I have a sensation in my body that bothers me at night? It's affecting my sleep.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+366,"Mera test positive aaya hai aur mera blood group bhi thoda alag hai, to kya baby ke liye sab kuch theek rahega ya kuch alag procedure ki zarurat padegi?",vague,VAGUE,VAGUE,1,VAGUE,1,WELL_SPECIFIED,0,VAGUE,1,VAGUE,1
+367,"Running for a while now  
+Feeling something unusual down there today",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+368,9 mahine ke baad kitne der mein ye process hota hai?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+369,Maine kisi test se check kiya tha usmein ek hi line dikh rahi he,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+370,Vague version: Kuch samay baad sharir me dard hona shuru ho jata hai.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+371,Why am I unable to rest? I'm experiencing long periods without proper sleep.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+372,Mujhe lagbhag aadha waqt ho gaya hai...par mujhe koi mehsoos nahi hota.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+373,I'm experiencing discomfort in some areas of my body to the point where it's difficult for me to rest or move around easily.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+374,Agar kisi ko aisa situation ho jaye toh kya waisa process sambhav hai?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+375,"I'm far from any medical facilities, could you offer advice on what I should consume or stay away from?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+376,Aj Mera kuch waqt ho gaya hai or koi ehsaas nahi ho re.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+377,I have a young child and am expecting another. Is it okay to continue what I'm doing?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+378,Mujhe yeh jaana hai ki kya us waqt yeh waise hi hoga jaise mai soch raha hoon?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+379,I've been experiencing some discomfort; what might help?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+380,I'm worried about something that might affect my child. What should I do?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+381,Abdomen me pain kyo ho raha h jab thoda samay hi hua h?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+382,I’ve noticed an unusual change that seems less severe than before. What should I do?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+383,"I feel unwell often despite trying different things, and I have no appetite. What should I do?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+384,I'm experiencing discomfort in a certain area when I'm resting or lying down.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+385,This isn't my first time experiencing this situation; past outcomes required medical intervention.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+386,"Recently, I've noticed a change in my weight. Is that typical?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+387,"Pregnancy ke dauran, ek achhe vikas ke liye wazan kaisa hona chahiye?",vague,VAGUE,WELL_SPECIFIED,0,VAGUE,1,WELL_SPECIFIED,0,WELL_SPECIFIED,0,VAGUE,1
+388,I'm at a stage in my life where my health is a focus. Could you provide some general advice on what might be good to consume?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+389,"Kuch samay tak kuch nahi dikh raha tha, lekin ab thoda badlav mehsoos ho raha hai.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+390,"If someone is further along in a situation and feels the need to consume additional fluids, could this indicate a particular trait? What might be causing dryness in certain areas as well? Could you provide some insight?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+391,"I'm a few months along in my pregnancy, but there seems to be a concern with development. What are some things I can try?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+392,Pehle wale tareeke se hua tha toh kya iss baar doosra tareeka mumkin hai?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+393,Kaun se samay tak bache ka vikas poora ho jata hai?,vague,VAGUE,VAGUE,1,VAGUE,1,WELL_SPECIFIED,0,VAGUE,1,WELL_SPECIFIED,0
+394,Kis stage par bacha pura develop hota hai?,vague,VAGUE,WELL_SPECIFIED,0,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+395,"Mujhe waqt ke bare me thoda samajhne me madad chahiye, kya aap mujhe bata sakte hain?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+396,"As someone with a busy job, what kinds of self-care should I consider?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+397,"Both of us were born early, and I'm concerned about the timing when we have a child.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+398,Pregnancy ke is stage pe baby ki development or overall well-being ke liye kya step lena chaiye?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+399,"My last cycle was some time ago, and I think I'm about halfway through a certain situation.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+400,What should I consider for better well-being for both of us?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+401,"Earlier, there seemed to be more movement, but now there's noticeably less. What might be causing this change?",vague,VAGUE,VAGUE,1,VAGUE,1,WELL_SPECIFIED,0,VAGUE,1,VAGUE,1
+402,Is it okay for my baby to weigh that much at this age?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+403,Mere bacche ka ek issue hai aur ek check-up ki zarurat hai.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+404,Can I keep something meant for the baby and use it at another time?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+405,Mam mere health m problem h kuch bint rahi h aur uncomfortable lag rha h,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+406,How can I find out more about what's coming?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+407,Could you tell me more about it in another language?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+408,Is it okay to have a drink made with certain herbs and spices?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+409,Mujhe delivery ke liye tips chahiye.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+410,Mujhe kuch samasya ho rahi hai aur mujhe lagta hai ki yeh kuch naya shuru hone ki wajah se hai.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+411,"Mera kuch aisa hota hai mahine mein jab shuru mein aur kuch din baad dark color dikhta hai, lekin beech mein kuch aur color hota hai.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+412,"Mujhe lag raha hai mere sath kuch ajeeb ho raha hai, kya yeh normal hai?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+413,"What should I consume to support my well-being, and can I get consistent advice for maintaining health throughout this period?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+414,What should I consider doing to monitor things when expecting? And what advice can you offer for maintaining well-being during that time?,vague,VAGUE,WELL_SPECIFIED,0,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+415,It's been a while and there's some occasional discomfort in the area.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+416,"Mera pehla bacha ek medical procedure se hua tha, ab uski umar do saal ke kareeb hai.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+417,Aathven mahine mein bacche ki movements theek hai iska matlab kuch hone wala hai,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+418,What warning signs should I be aware of in my situation?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+419,Is it really necessary for me to use that supplement?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+420,"I'm experiencing some discomfort and pressure, what might be causing this?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+421,"It's past when I expected something to happen, but I haven't noticed any changes or sensations yet. Should I be concerned?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+422,Kya is samay kuch kha sakte hain dudh ke sath?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+423,"Sab ko achha samjhe, kuchh naya sikhe, aur theek rahe.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+424,Time ke baad kaunse dry fruits lena theek rahega?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+425,"How can I tell when it's time for something important to happen, and what signs should I watch for?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+426,"Mera baby ka issue hai koi cheez sahi se nahi dikh rahi aur andar kuch theek se nahi pohonch raha, saans lene me dikkat ho rahi hai kisi expert ne bola.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+427,"I have something going on, could it impact my child’s well-being?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+428,When will I notice any changes?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+429,Is it safe to take a tablet during the later months of pregnancy?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+430,Mujhe samajhna h ki mere liye abhi kya samay ho raha h.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+431,I've been at this stage for a while. What should I focus on with my habits and diet?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+432,Is doing certain physical tasks at this stage of pregnancy advisable?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+433,"Jab samay ho tab dekh lo, abhi kuch mahine ho gaye hain, pehle bhi ek baar dekha tha.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+434,I'm trying to find options and places related to my future plans. Can you help?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+435,"Mujhe phela baccha ek tareeke se hua tha, kya ye bhi waisa hi hoga?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+436,"Agar koi natural process ke liye tayari karna chahta ho, to usko abhi se kya karna chahiye?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+437,"Meri age ho chuki hai, to kya ye possible hai?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+438,"I last experienced something in early August...  
+When should I consider getting checked for any issues?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+439,"Mujhe health issue h, to kya iska koi effect ho sakta h?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+440,Ab kya early stage mein discomfort aur uneasiness hona theek hai?,vague,VAGUE,WELL_SPECIFIED,0,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+441,Kya ye jagah bilkul muft hai?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+442,"I'm quite far along in my pregnancy, and I've been told that there is a positioning issue with the baby.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+443,Mam mera weight kam ho raha hai aur health mein kuch dikkat hai.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+444,Should I consider taking this injection? Is it beneficial for me?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+445,There seems to be an issue related to some aspect of the pregnancy progress. Can you provide more details about what's happening?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+446,"My situation is a bit unclear because something is delayed, and I used a method to find out what might be happening. The results were mixed, with one part being clear and the other not so much. Can you help me understand what's going on?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+447,I'm experiencing a minor issue. What should I consider doing?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+448,"Mujhe yah puchna he ki mere sharir me dard ho raha he, kya ye is dauran thik he?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+449,"Abi tak koi supplement nhi liya, ab kya karna chahiye?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+450,Ultrasound kya hota hai or kab karna hota hai pregnancy ke dauran,vague,VAGUE,WELL_SPECIFIED,0,WELL_SPECIFIED,0,WELL_SPECIFIED,0,WELL_SPECIFIED,0,WELL_SPECIFIED,0
+451,Mujhe thakaan mehsoos ho rahi hai aur kabhi kabhi jaga pe bethne se takleef hoti hai. नींद भी ज्यादा आती है.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+452,Ulta hone par bache ka normal delivery se hona mumkin hai kya?,vague,VAGUE,WELL_SPECIFIED,0,VAGUE,1,WELL_SPECIFIED,0,VAGUE,1,VAGUE,1
+453,Could you let me know if the medical office is operating on that date?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+454,I'm expecting and I'm trying to figure out how far along I am based on when things last happened. Can you help me understand how many weeks it's been?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+455,Is it concerning for the health of a baby if there's a certain condition present in an area of the body?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+456,What are some ways to address health concerns that might arise during pregnancy?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+457,Vague version: Agar is dauran kuch alag ho raha ho to koi dikkat ho sakti hai kya?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+458,"Pehla baccha kuch procedure se hua tha kuch saal ho gaye, dusre bacche ke liye chances kaise hain?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+459,"Mujhe kuch samay aur khana-peena ke baare mein jaan'na hai, kya aap sujhav de sakte hain?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+460,"I'm wondering, what signs should I pay attention to at this stage?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+461,"There are concerns about the heartbeat rates in relation to the birth process. Is there potential for complications, and what is the likelihood of a natural outcome in this situation?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+462,What should I consume at this stage??? Please recommend a good option...,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+463,Final stage me diet kaisi honi chahiye taki sab kuch theek rahe?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+464,Mujhe aisa kya karna chahiye ki meri family healthy aur acchi lage?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+465,"Feeling good about one thing, but there's discomfort somewhere else—any thoughts?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+466,"I'm currently expecting, and it's in the later stages now, but the growth isn't quite where I hoped it would be. What steps can I take to enhance the situation?",vague,VAGUE,VAGUE,1,VAGUE,1,WELL_SPECIFIED,0,VAGUE,1,VAGUE,1
+467,"Lately, certain things have been bothering me. Is this usual?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+468,Agar kisi situation me risk ho to kya normal process ke zariye sab kuch theek ho sakta hai?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+469,"Abhi mera kuch time complete hone wala hai, kya mujhe koi dawai leni chahiye?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+470,"Delivery ke baare mein soch rahe hain, isiliye thoda darr lag raha hai.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+471,"Mera pehla experience aise hi tha, to kya agle bar bhi waisa hi hoga?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+472,"It has been some time now since discovering the situation, but I'm not experiencing any of the usual signs, just a confirmation. What could this mean?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+473,Mujhe yeh jan'na hai ke thoda waqt guzarne ke baad kya yeh theek hoga?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+474,Meri ek chinta hai ki kuch wajah se mere bacche ka vikas theek se ho raha hai ya nahi.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+475,"If a date marked something significant, how might one estimate an important future event related to it?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+476,Is it really necessary to get further testing if initial results are okay?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+477,Samay ke is mod par mujhe kab tak intezar karna padega?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+478,Mujhe kuch takleef ho rahi hai aur kuch bhi nahi kar paa raha hu.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+479,Mujhe bimari ho gyi h kya iska asr mere bachche pr bhi pdega or mujhe kya karna chahiye ki ye jldi theek ho jaye?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+480,"Abhi thode hi din hue hain, lekin mujhe waise koi parivartan nazar nahi aa raha hai.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+481,"Mujhe kuch pareshani si rehti hai, kya iska kisi aur pr koi asar ho sakta hai?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+482,Bacchy ka movement kaise aur kab pta chalta hai?,vague,VAGUE,WELL_SPECIFIED,0,VAGUE,1,WELL_SPECIFIED,0,WELL_SPECIFIED,0,VAGUE,1
+483,I'm interested in enhancing certain aspects of my inner self and mental abilities.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+484,Dhadkan tez ho to kya kare?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+485,"Baccha theek se so nahi raha hai, kuch waqt se aisa ho raha hai.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+486,"The test results are unclear  
+I am worried",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+487,Can the position change if there is a certain condition?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+488,Is it possible for the condition of something related to pregnancy to change over time?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+489,"Mujhe kuch zaroori baat karni hai, kya aap madad kar sakte hain iska contact number dhundne mein?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+490,Bachhe ke development ke liye sahi khuraak kya ho sakta hai is umar mein?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+491,How can I relate to them better? Do my feelings and behaviors have any effect on their development?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+492,What should a new parent consider continuing to take after the arrival of their child?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+493,What should be done for a newborn's health care in the early weeks?,vague,VAGUE,WELL_SPECIFIED,0,VAGUE,1,WELL_SPECIFIED,0,VAGUE,1,VAGUE,1
+494,Operation ke kitne din baad ghar jaa sakte hain,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+495,"During this time, is experiencing this kind of symptom okay or not? Please let me know.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+496,"My last time was several months ago, and now I'm in a new phase. What steps should I take?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+497,"Agar kuch mahine ho gaye hain aur ek cheez chal rahi hai, toh iske baare mein kya sochna chahiye? Ab aage kya hoga?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+498,"Mere paas ek baby hai jo 5 mahine ka hone wala hai, lekin mujhe kuch cheez ki chinta ho rahi hai.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+499,Kitne samay mein bacche ka weight kitna hona chahiye?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+500,What should I consider for maintaining good health?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+501,"Mujhe aur mere bacche ke liye acchi sehat ke liye kuch sunishchit karna hai, uske bare mein kuch bata sakte hain?",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+502,Discomfort from an unusual consistency—what steps should be taken?,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+503,"Ji, bachcha abhi kuch mahine ka hai aur kisi ne kaha ki wo expected size se chhota hai.",vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+504,Ab kuch time ho gaya h par abhi bhi aisa lagta h ki kuch kam h.,vague,VAGUE,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1,VAGUE,1
+505,"My baby weighs 452 grams at 22 weeks of pregnancy based on an ultrasound. Is this within the normal range for fetal growth at this stage, and should I be concerned about any potential health issues?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+506,"Sometimes I don’t feel the baby move as much as usual, especially in the evenings. I’m currently 28 weeks pregnant, and I’m wondering if changes in movement patterns like this are normal or if it could indicate a problem.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+507,"I have noticed prickly heat and persistent itching on my upper back and neck for the past three days, especially after sweating or being in the sun. The skin feels bumpy and slightly red. What steps can I take to relieve the discomfort and prevent it from getting worse?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+508,"Pregnancy ke second trimester me din me kitni quantity me mango 🥭 khana safe hai, aur kya diabetes ya weight gain ka risk hota hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+509,"Original question: Bacche ko Tej Sardi ho to kaise usko maintain Karen  
+
+Specific version: Agar 4 saal ke bacche ko Tej Sardi ho, jiski wajah se naak beh rahi ho, gale mein kharash ho aur bukhar bhi lag raha ho, to kaise uska dhyan rakhein aur ghar par kaunse upaaye karein jo uski tabiyat sudharne mein madad karein?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+510,"Kya pregnancy ke first trimester mein halka bleeding hona normal hai, ya yeh kisi complication ka sign ho sakta hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+511,"Mujhe thyroid hai aur main hyperthyroidism ya hypothyroidism se suffer kar rahi hoon, to kya iska mere breast milk ke supply ya quality par kuch asar padta hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1
+512,"2.5 months ho gaye hain pregnancy ko, lekin mujhe na vomit ho raha hai aur na hi morning sickness ho rahi hai. Kya ye normal hai, ya mujhe is baare mein doctor se consult karna chahiye?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+513,जयादा टाइम तक बैठने पर चक्कर आने लगते हैं और खड़े होने पर पेट दर्द शुरू हो जाता है। यह समस्या पिछले कुछ दिनों से हो रही है और मैं दिनभर लंबे समय तक बैठकर काम करता हूँ। क्या यह किसी गैस्ट्रिक समस्या या ब्लड प्रेशर की वजह हो सकती है? ऐसी स्थिति में कौन सी दवा लेना सही रहेगा? कृपया सही सुझाव दें।,specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0,VAGUE,0
+514,"सर्दी-जुकाम हो रहा है, और मैं गर्भवती हूँ। क्या इसका गर्भ में बढ़ रहे बच्चे के स्वास्थ्य पर कोई नकारात्मक प्रभाव पड़ेगा, और क्या इस स्थिति में कोई विशेष सावधानी या घरेलू उपाय अपनाने की आवश्यकता है?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+515,"For the last three days, I’ve had brown discharge coming from my vagina. It started a few days after my period ended, and there’s no foul smell or pain. Could this be related to my menstrual cycle, or should I be concerned?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+516,"At my 6 weeks 3 days pregnancy, the baby’s heartbeat was measured, but it seemed faint at 90 beats per minute. Is this normal, and should I be concerned about the baby’s development?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+517,"I’m experiencing brown discharge even though I’ve been taking progesterone tablets and recently had a progesterone injection. This started about three days ago, and I’m wondering if it could be related to my irregular periods or a possible hormonal imbalance. Why might this be happening?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+518,"I am experiencing severe lower back pain along with discomfort and a feeling of pressure in my vaginal area, which has been ongoing for the past few days. Could this be related to my menstrual cycle, urinary issues, or something else?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0,VAGUE,0
+519,"When I went for my prenatal checkup at 24 weeks, the doctor told me my baby’s size is measuring smaller than expected for its gestational age. What can I do to help improve my baby’s growth and ensure its health?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+520,"I have been experiencing significant gas problems, particularly at night, with bloating and discomfort that sometimes disrupts my sleep. This has been happening for the past two weeks, and the symptoms seem worse after eating dinner, especially when I have meals with dairy or fried foods. What could be causing this?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+521,"I have lower back pain that starts or worsens when I lie down for bed at night, especially if I’ve been active during the day. What could be causing this, and what should I do to relieve it?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1
+522,"I have noticed prickly heat and itching on my upper back and neck for the past two days, especially after sweating. The area is red and bumpy, and the itching gets worse at night. What steps can I take to relieve it, and should I be concerned about an underlying issue?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+523,What specific foods should I eat while breastfeeding to ensure my baby gets proper nutrition and stays healthy?,specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+524,"I am looking for family planning methods, such as non-hormonal or long-term options, and clinics near me that provide these services and consultations, preferably in [your city or neighborhood].",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,VAGUE,0,VAGUE,0,VAGUE,0
+525,"Can you inform me of the different birthing options available to me as a healthy 32-year-old in my first pregnancy, considering I'd like to explore natural methods but am also open to pain management options and hospital delivery?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+526,"What is the average weight of a baby at 6 and a half months old, considering they were born full-term and have been feeding primarily on breast milk or formula?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1
+527,"What steps can I take during my pregnancy and immediately after delivery to reduce the risk of my newborn developing jaundice, particularly if I have certain risk factors like being Rh-negative, gestational diabetes, or a family history of newborn jaundice?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+528,"I cannot eat meat, eggs, or fish during my pregnancy because the smell makes me nauseous. If I avoid these foods, will it affect my baby’s nutrition or cause any deficiencies for their development?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+529,"My delivery date is in three weeks, and my pregnancy has been healthy so far with no complications. Could you recommend specific yoga poses or exercises that are safe to do at this stage and may help prepare my body for a normal delivery?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+530,"I feel a strange irritation or restlessness in my legs, mainly in the evening or when I’m trying to fall asleep, and it makes it hard to get comfortable. What could be causing this, and how can I manage it?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+531,"Husband wife pregnant hai, aur agar pregnancy ke 4th month mein sambandh banayenge toh kya isse baby ko koi takleef ya health issue ho sakta hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+532,"Does a mild fever around 100°F (37.8°C) during the second trimester of pregnancy, lasting for a day or two without other severe symptoms, pose any risk to the baby’s development or increase the chances of complications?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+533,"Is it safe to avoid taking any medication for a mild fever (around 100°F/37.8°C) during the 5th month of pregnancy, or could the fever itself negatively affect the fetus?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+534,"What specific foods should I include in my diet while breastfeeding to improve my baby's health, support their growth, and ensure they are getting the necessary nutrients like vitamins, minerals, and healthy fats?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+535,"I’ve heard that baby movements are often felt on one side of the stomach, but I frequently feel my baby’s movements on both the left and right sides, as well as in the upper and lower parts of my abdomen. I’m currently 28 weeks pregnant—should I be concerned, or is it normal to feel movement in so many areas at this stage of pregnancy?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+536,"Is there any potential problem if a 32-week-old baby is still in a transverse position, and what steps might be taken to help the baby move into the correct position before delivery?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+537,"I’m experiencing mild pain on the right side of my lower abdomen. I’m currently 20 weeks pregnant—could this be normal, or should I be concerned about something like round ligament pain or another issue?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+538,"My legs have been swollen for the past few days, and the skin is very itchy, especially around my ankles. The swelling seems worse in the evenings, and I haven’t injured myself. Could this be due to a circulation problem, an allergy, or something else? What should I do about it?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+539,"What foods should I focus on during pregnancy to ensure my baby develops healthily, and are there specific nutrients I should prioritize in each trimester?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+540,"I am currently 23 weeks pregnant, and my last prenatal visit was two weeks ago. When would you recommend scheduling my next appointment, and are there specific tests or checkups typically done around this stage of pregnancy?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+541,"Which is better for maintaining my body after delivery, a planned C-section or a vaginal birth, considering I am 30 years old, in good health, and concerned about recovery time, long-term physical impact, and body shape changes?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+542,"Baby ke movement karne par niche pelvic area ya bladder ke paas dard ho raha hai, aur yeh dard zyada tab hota hai jab main chalti hoon ya bathroom jaane ki zarurat mehsoos hoti hai. Kya yeh normal hai ya kisi health issue ki nishani ho sakti hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+543,"I am currently pregnant and want to have a normal vaginal delivery. What specific exercises would you recommend during the second and third trimesters, and what precautions should I take to ensure a healthy pregnancy and improve my chances of a successful natural delivery?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+544,"If my baby is in a breech position (upside down) at 34 weeks of pregnancy, is it safe, and should I be concerned about potential complications during delivery?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+545,"What types of sounds can my 3-month-old baby hear at this stage of development, and how soon will they start recognizing specific sounds like their name or familiar voices?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+546,"If I gently move my hands or press lightly on my belly at 24 weeks pregnant, is my baby able to feel the sensation or respond to it in any way?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+547,I have been diagnosed with high blood pressure (140/90 or higher over multiple readings) and I am concerned about the potential health risks or complications that could occur if it remains unmanaged. Can you explain what problems I might face in this situation?,specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+548,"I was told my blood levels are low after a recent blood test, possibly related to iron deficiency. What foods, supplements, or treatments can help increase my blood levels safely and effectively?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+549,"Can I safely eat sour fruits, like oranges or lemons, if I have been diagnosed with anemia and often feel fatigued?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+550,"I’ve been experiencing persistent back pain, aching in both hands, and noticeable swelling in my legs, especially around the ankles, for the past couple of weeks. The pain gets worse after long periods of standing or sitting, and the swelling seems to be more pronounced in the evening. What could be causing these symptoms?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+551,"I'm doing daily walking (about 30 minutes) and yoga, but I'm experiencing significant pain in my lower back and knees during and after these activities. Do you have any recommendations or solutions to help reduce this pain?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+552,"I would like a detailed diet chart outlining proper nutrition for a pregnant woman in her second trimester to support the healthy growth and development of the baby in the womb, considering I am vegetarian and want to ensure I am getting enough protein, iron, and other essential nutrients.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+553,"What is the recommended timing for receiving an injection during pregnancy to protect my baby, and where can I reliably get this done? I am currently X weeks pregnant and have not received any injections yet.",specific,WELL_SPECIFIED,VAGUE,0,VAGUE,0,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1
+554,"What are some essential foods I should include in my diet at 21 weeks pregnant to support my baby’s development and maintain my energy levels, especially if I’m experiencing mild anemia and occasional indigestion?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+555,What are the signs that my breast milk has transitioned from colostrum to mature milk and is fully ready to meet my newborn’s nutritional needs for feeding?,specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+556,"When I sit for more than 10 minutes, I feel a sharp or aching pain in my lower abdomen, slightly above my pelvic area, mostly on the right side. It started a few days ago and seems worse when I lean forward or stay seated for extended periods.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+557,"Could my baby be affected since I’ve had a persistent cough for the past week? I am currently breastfeeding and have no fever, but I’m worried about passing something on to my baby.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+558,"I'm asking my doctor a lot of questions because I'm experiencing ongoing fatigue, occasional dizziness, and trouble sleeping, and I want to better understand what might be causing these symptoms and how to address them.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,VAGUE,0,VAGUE,0
+559,"It seems there might have been a mix-up in the original question. Could you clarify what you need help with concerning your health? For example, if you have a specific symptom, concern, or issue you'd like to discuss, you could phrase it like: ""I've been experiencing [symptom/issue] for [duration], and it seems to get better/worse when I [activity or condition]. Should I be concerned and seek medical attention?""",specific,WELL_SPECIFIED,VAGUE,0,VAGUE,0,VAGUE,0,VAGUE,0,VAGUE,0
+560,"My baby’s weight seems very low; I’m currently 8 months pregnant, and the baby’s weight is measuring 1.6 kg (1600 g) according to my recent ultrasound. Should I be worried about the baby’s growth at this stage, and are there any specific steps I should take to improve the baby’s weight or monitor its development?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+561,"I have been diagnosed with gestational diabetes mellitus at 28 weeks of pregnancy. I’m managing it with dietary changes and monitoring my blood sugar. Will my blood sugar levels return to normal after childbirth, or is there a chance I might continue to have diabetes?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+562,"During our recent anomaly scan at 20 weeks of pregnancy, we noticed that our baby was moving a lot at certain times but then had periods of very slow or almost no movement. Is this normal, or could it indicate a potential issue?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+563,"What are the typical symptoms in the days or hours leading up to labor, such as changes in discharge, cramping, or other signs? How can I differentiate true labor pains from Braxton Hicks contractions, especially if I’m 39 weeks pregnant with my first baby?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+564,"I am 7 months pregnant and want to know what specific care I should focus on at this stage for both myself and my baby’s health, such as nutrition, physical activity, and warning signs to watch for.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+565,"I want to know which specific foods are best to support the healthy growth and development of my 8-month-old baby, as well as foods that can help me maintain energy and proper nutrition as a breastfeeding mother.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+566,Is it safe to travel by airplane on a 4-hour flight at 2.5 months into pregnancy if I have no complications so far but occasionally experience mild nausea and fatigue?,specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+567,"I have been experiencing a low-grade fever every night since I became pregnant, and it usually starts in the evening and lasts a few hours. What safe medication can I take to manage this, and should I be concerned about an underlying issue related to my pregnancy?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+568,"Folic acid aur calcium supplement din mein do baar lene ke liye subah khana se pehle lena sahi hoga ya khana ke baad? Saath mein kya dono ek sath le sakte hai, ya alag alag samay pe lein?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+569,"I am 5 months pregnant and have been experiencing continuous white vaginal discharge without itching or a foul smell. Is this normal, and could it pose any risk to my baby?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+570,"I have twin babies, and one of them was born with a clubfoot (talipes) deformity in their right leg. Can this condition improve with treatment, and what are the recommended treatment options or timelines for the best outcomes?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+571,"What are the best nutrients and foods I should include in my diet to support the healthy growth and development of my 6-month-old baby who is starting on solids, while I’m also breastfeeding?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+572,"What precautions should a 32-year-old woman with no major health issues take during the fifth month of pregnancy to ensure proper fetal development and reduce the risk of complications, especially regarding nutrition, physical activity, and sleep?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+573,"I’m 8 months pregnant, and these days I’ve been feeling a persistent pain in my lower abdomen, especially when I move, stand for long periods, or change positions. What should I do to understand if this is normal or if I need medical attention?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+574,"I am 5 months pregnant and have been feeling very weak and low on energy recently, despite trying to eat regularly. What could be causing this, and should I be worried about any specific nutrient deficiencies or other health issues?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+575,I am in the 5th month of my first pregnancy and concerned about not attending regular prenatal checkups because my mother-in-law insists they are unnecessary and a waste of money. Is skipping appointments at this stage of pregnancy risky for my baby's health or mine?,specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+576,"Mam, maine galti se ek vaginal capsule ko orally (muh ke raste) ek tablet ki tarah le liya hai, toh kya isse koi problem ho sakti hai? Capsule ka naam *** tha (yadi yaad ho toh).",specific,WELL_SPECIFIED,VAGUE,0,VAGUE,0,WELL_SPECIFIED,1,VAGUE,0,VAGUE,0
+577,"There is a clear or yellowish fluid leaking from my right breast when I press on it, and I’m not pregnant or breastfeeding. Is this normal, or could it indicate a problem?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+578,"Starting tomorrow, I’ve noticed that my baby bump is frequently becoming hard for short periods. I’m 28 weeks pregnant—could this be Braxton Hicks contractions, or is it something I should be concerned about?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+579,"What are the best types of nutrient-rich foods to include in a 7-month pregnancy diet to support fetal growth and reduce the risk of complications, and what specific foods can aid in recovery and breastfeeding after delivery?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+580,"Can a pregnant woman in her second trimester safely eat dry fruits like cashews and almonds daily, and if so, what would be a healthy portion size to avoid excessive weight gain or potential allergies?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+581,"What steps can I take to support my 6-month-old baby's brain development, considering I want to focus on age-appropriate activities, nutrition, and creating a stimulating environment?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+582,"Is it normal to feel nauseous and unable to eat anything for the past three days, especially if it’s accompanied by no other symptoms like fever, diarrhea, or abdominal pain?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+583,"I’m now 6 months pregnant, and I’d like to know what specific steps I should take to ensure a healthy pregnancy, such as recommended nutrition, safe exercise routines, or anything I should avoid at this stage.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+584,"I am looking for family planning methods suitable for women in their early 30s who are not planning to conceive for at least five years, as well as information about clinics near [your city or area] that offer counseling and services like IUDs or hormonal birth control.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1
+585,"I was told by my relatives that some pregnant women receive a specific vaccination to support the brain development of the baby. Can you clarify if such a vaccine exists, what it’s called, and at what stage of pregnancy it is typically recommended?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+586,"This is my first pregnancy, and I’m feeling anxious about the delivery process. If I want to aim for a normal vaginal delivery, will my doctor need to give me any injections during labor, such as for pain relief or to help the labor progress?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+587,"Exactly when should I go to the hospital for delivery if my estimated due date is 28 September 2024, and I’m currently healthy with no complications? Should I wait for contractions to start or go earlier if I notice any specific signs like my water breaking or decreased fetal movement?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+588,How can I quickly contact a doctor or medical professional in case of a severe asthma attack when I am at home and unable to drive to the hospital?,specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+589,"What should I do to get help if I’m experiencing shortness of breath during the third trimester of pregnancy, especially when lying down or after mild activity?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+590,"What should I do if I experience a consistently high heart rate (over 100 beats per minute) during the second trimester of pregnancy, especially if it happens while I’m resting or accompanied by lightheadedness or shortness of breath?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+591,"How much water should I consume per day during pregnancy if I am in my second trimester, live in a hot climate, and exercise moderately?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+592,"Mujhe 6 mahine ki pregnancy hai aur mere breast se halka sa transparency wala ya paale rang ka liquid (colostrum) abhi se nikal raha hai, kya ye normal hai ya kisi dikkat ki nishani ho sakti hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+593,"Can I travel from Guwahati to Silchar (300KM) by train on 28th September, given that I recently had minor leg surgery two weeks ago and need to appear for an interview on 29th September?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+594,"What types of nutrient-rich foods should I include in my diet during pregnancy to help support healthy weight gain for my baby, especially if I’m in my third trimester and my doctor mentioned the baby is measuring small?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+595,Could frequent bending and physical movement during daily household chores at 25 weeks pregnant harm my baby or affect their development?,specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+596,"Are there specific foods or nutrients that can be included in a pregnant woman's diet to promote healthy skin development in a baby, especially if fair skin runs in the family?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1
+597,I am a working woman in my mid-30s with a demanding job that leaves me with little time to prepare healthy meals or exercise regularly. This has led to constant fatigue and occasional headaches. How can I start prioritizing my health while managing my busy schedule?,specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+598,"Meri per mein bhut dard hoti hai, khas kar raat ke samay ya zyada chalne ke baad, aur chest ke right side ke niche kabhi-kabhi tez dard hota hai, jo khaas kar khansne ya gehri saans lene par aur zyada badh jata hai.",specific,WELL_SPECIFIED,VAGUE,0,VAGUE,0,WELL_SPECIFIED,1,VAGUE,0,VAGUE,0
+599,"Meri pet ke beech wale hisse mein bhut tez dard hota hai, jo khane ke baad zyada mehsoos hota hai, aur chest ke right side ke neeche bhi kabi kabi dard hota hai, khaaskar jab mai jhukta hoon ya zyada kaam karta hoon.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+600,What specific nutrients or foods can I include in my diet while breastfeeding or during pregnancy to support my baby’s brain development and overall health?,specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+601,Is it ok for me to continue daily tasks that involve frequent bending at the waist if I’ve recently been experiencing lower back pain and stiffness?,specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1
+602,"Last time I asked you if my [age of the person, e.g., ""2-month-old baby"" or ""elderly parent""] is able to hear our voices or not, as I’ve noticed [specific observation, e.g., ""they don’t respond to loud sounds"" or ""they don’t turn their head when I speak""].",specific,WELL_SPECIFIED,VAGUE,0,VAGUE,0,VAGUE,0,VAGUE,0,VAGUE,0
+603,"Can you explain the CA 125 test and its significance? My wife has been closely monitoring her CA 125 levels as part of her treatment for ovarian cancer, and we’re trying to better understand what the results mean and how they relate to her condition.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+604,"Normal delivery nahi hone ke karan constant China (kammaan) aur discomfort kyun bani rahti hai, aur kya yeh c-section ke baad hone wale hormones ya body recovery ke issues se related ho sakti hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,VAGUE,0,VAGUE,0
+605,Can I eat spicy foods like chili if I’ve been experiencing stomach discomfort and occasional heartburn lately? I’m craving very spicy foods but want to be cautious.,specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+606,"Main pichle hafte doctor ke pass gai thi, jahan sonography ke dauran mujhe bacche ke thode dur mein halka sa bleeding area dikhaya gaya. Kya yeh spotting ya bleeding pregnancy ke liye risk ho sakti hai, aur yeh khud se thik ho jayegi ya iske liye kuch ilaaj zaroori hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+607,"Mujhe 2 mahine ho chuke hain pregnancy ko, aur ab teesra mahina chal raha hai. Pichli baar sonography pehle mahine mein hui thi, to kya mujhe ab teesre mahine mein routine check-up ke liye sonography karani chahiye? Agar haan, to kis cheez ka dhyan rakhna hoga?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+608,"Mere 6 mahine ke bacche ke private parts thik hain ya nahi ye kaise samajh sakti hoon? Mujhe lagta hai kabhi-kabhi swelling aur redness hoti hai, aur shayad wo uncomfortable feel karta hai. Kya ye normal hai ya koi dikkat ho sakti hai? Plz batayen.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+609,"Chest mai jalan aur dard ho raha hai, khaas kar khana khane ke baad ya late karne par. Saath hi, pait phula hua mehsoos ho raha hai aur kabhi kabhi turant dakar bhi aata hai. Kya ye gastritis ya acidity ki wajeh se ho sakta hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+610,"What kind of food should a pregnant woman eat during the 8th and 9th months to support the baby's development, manage energy levels, and reduce common issues like heartburn or swelling?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+611,"I’ve been feeling extremely tired for the past few weeks, and I’ve also been experiencing episodes of fast, strong heart palpitations, especially when I’m resting or after mild activity. What could be causing this?",specific,WELL_SPECIFIED,VAGUE,0,VAGUE,0,WELL_SPECIFIED,1,VAGUE,0,VAGUE,0
+612,"When I urinate, I feel a sharp, burning pain in my lower abdomen and near the urethra—could this be a sign of an infection or something else?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+613,"Delivery ke liye ready hone ke liye hemoglobin kitna hona chahiye, agar patient 8th month of pregnancy mein hai aur pehle se mild anemia diagnose hua hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+614,"Me ye jana chhti hu ke mere pet ke niche vali side me drd Q ho rha hai, jo lagatar 2 din se ruk ruk kar ho rha hai, khaas kar khana khane ke baad ya late hue.",specific,WELL_SPECIFIED,VAGUE,0,VAGUE,0,WELL_SPECIFIED,1,VAGUE,0,VAGUE,0
+615,"Mujhe Staring m thyroid ka diagnosis hua tha aur ab me uske liye regular medicine le rahi hu, to kya ye medicine breastfeeding ke dauran mere baby ke health ya growth par koi asar karegi?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+616,I have Ehlers-Danlos syndrome. Will it cause complications during labor and delivery?,specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+617,"Why do my feet feel like they are burning inside, especially at night? It usually starts after I’ve been lying down for a while, and the sensation gets worse in both feet, making it hard to sleep. Could this be related to nerve problems, circulation, or something else?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+618,"Mera sickle cell test positive hai aur mera blood group B negative hai, to kya mere baby ke normal delivery ke chances hain ya cesarean opreation karna padega? Kya is situation mein baby ke health par kuch asar ho sakta hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+619,"For the past 9 months, I’ve been running regularly, but today I’m experiencing a sharp pain in the lower part of my right leg near the shin. Could this be related to my running, and what might be causing it?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+620,"9 month complete hone ke baad delivery kitne din ke andar hoti hai, aur kya ye normal delivery ya cesarean pe depend karta hai? Agar periods ka exact day ya ultrasound ka expected due date pata ho, to kya fir bhi delivery me delay ho sakta hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+621,"Maine home pregnancy test se check kiya tha, aur usmein control line toh clear thi, lekin test line nahi bani. Ye test maine subah pehla urine sample use karke kiya tha. Kya iska matlab hai ki result negative hai ya mujhe test repeat karna chahiye?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+622,"Pregnancy ke third month me kamar aur peron me dard hota hai, jo zyada tar sham ke waqt ya zyada der tak khade rehne ke baad mehsoos hota hai. Kya ye normal hai, ya kisi specific test ya exercise ki zarurat hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+623,"Why can’t I sleep at all at night? Over the past week, I’ve been lying in bed for hours without falling asleep, even though I feel exhausted. I don’t drink caffeine in the evenings, but my mind feels restless, and I sometimes wake up feeling anxious. Could this be related to stress or something else?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+624,"Mera 5th month of pregnancy chal raha hai, lekin mujhe ab tak baby ki movement ya kicking feel nahi ho rahi. Kya ye normal hai, ya mujhe apne doctor se consult karna chahiye?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+625,"I’m experiencing severe pain in my legs, lower back, and pelvic region, which has been ongoing for the past few days. The pain worsens at night, making it difficult for me to sleep, and it also affects my ability to walk or perform daily activities. Should I be concerned about a specific condition, and what steps should I take?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+626,"Agar gharbhasy mein do bacche hain aur dono ka development theek hai, toh kya normal delivery ho sakti hai ya phir C-section ki zarurat padegi? Yeh bhi bataiye agar dono bacche alag-alag position mein ho toh kya asar padega?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0,VAGUE,0
+627,"I don’t have a hospital nearby, so can you please suggest food items I should eat and avoid to help manage my high blood pressure and prevent it from getting worse?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+628,"Aj mera 9 month complete hogya hai, pregnancy ke dauran, lekin abhi tak labor pain shuru nahi huye hain. Kya yeh normal hai, aur mujhe kab tak apne doctor se consult karna chahiye?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+629,"I have a 15-month-old baby boy whom I am still breastfeeding, and I recently found out I’m pregnant. Is it safe to continue breastfeeding during my pregnancy, or could it affect the baby I’m carrying or my toddler’s nutrition?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+630,"Mujhe yeh Janna tha ki normal delivery ke time kya ek single room milega aur usme kya facilities available hongi, jaise ki privacy, baby care, aur family members ke saath rehne ki permission?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1
+631,"I’ve been experiencing frequent and excessive gas for the past two weeks, especially after meals. It’s accompanied by mild abdominal discomfort and bloating. Could this be related to my diet, or should I consider other possible causes, and what steps can I take to reduce it?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+632,"I have been diagnosed with Hepatitis B and A, and I am currently pregnant. I am very worried about how to protect my baby from infection during pregnancy or childbirth. What steps or treatments can help ensure my baby stays safe and healthy?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+633,"Lower abdomen me pain kyo ho raha h? Abhi 9 week ka pregnancy chal raha h, aur pain kabhi mild hota h, kabhi sharp lagta h. Yeh normal h ya kisi check-up ki zarurat h?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+634,"I have been experiencing blood in my urine for the past few days, but the amount seems to have decreased slightly compared to before. Should I be concerned or get further testing, and could this be related to a possible urinary tract issue or injury?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+635,"I have been experiencing daily vomiting for the past two weeks, even though I’m taking the prescribed medication for it. I also have no appetite at all, and I’ve noticed I’m losing weight. Could this be related to my stomach issues or something else?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0,VAGUE,0
+636,"I am experiencing a sharp, aching pain in my vaginal area while lying flat on my back or on my side in bed at night, and it feels worse when I stay in one position for a long time.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+637,"This is my third pregnancy; the previous two deliveries were via C-section, and I’m wondering about the risks and recommendations for attempting a vaginal birth this time.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+638,"Last month I weighed 58 kg, and this month I weigh 62 kg—could this weight gain in such a short time be normal, or should I be concerned about potential causes like changes in diet, activity level, or fluid retention?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1
+639,"Pregnancy ke 6th month (24-26 weeks) me ek healthy baby ka weight ultrasound ke mutabiq kitna hona chahiye, aur agar weight kam ho to usse improve karne ke liye kya dietary ya lifestyle changes zaruri hain?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+640,"I am currently 8 months pregnant. Could you please suggest a nutritious diet plan, including specific foods or meals, that would be safe and beneficial for both me and my baby during this stage of pregnancy?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+641,"Pehle pregnancy tests negative aa rahe the, par ek mahine pehle test positive aaya hai. Last period kab hua tha, aur cycle irregular hai kya? Kya kuch symptoms jaise nausea ya fatigue mehsoos ho rahe hain?",specific,WELL_SPECIFIED,VAGUE,0,VAGUE,0,WELL_SPECIFIED,1,VAGUE,0,VAGUE,0
+642,"During 7 months of pregnancy, if a patient is experiencing increased thirst and wants to drink more water than usual, could this be a sign of gestational diabetes or another condition? Additionally, her lips feel dry despite drinking water. What could be causing these symptoms, and should further testing or dietary changes be considered?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+643,"I’m 26 weeks pregnant, and at my last ultrasound, my doctor said my baby is measuring smaller than expected for this stage. What can I do or eat to support my baby’s growth and ensure they’re healthy?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+644,"Mera pehla bacha cesarean section ke zariye paida hua tha, aur ab main 32 weeks pregnant hoon. Kya is baar normal delivery ka chance ho sakta hai agar pregnancy aur baby ki position ab tak theek hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+645,"Kis month tak pregnancy ke dauran bache ke sare body parts fully develop ho jate hain, aur kya is process ke alag alag milestones hotay hain jo check karne chahiye?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+646,"Kis month tak maa ke pet mein bacha apne sare body parts (jaise haath, pair, aankh, kaan, aur baaki organs) properly develop kar leta hai aur functioning shuru kar deta hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+647,"Mujhe apne menstrual cycle ke baare mein samajhne mein madad chahiye, kya aap mujhe ye bata sakte hain ki mera kon sa menstrual month chal raha h, agar mera pehla period 15 din pehle aaya tha?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,VAGUE,0,VAGUE,0
+648,"As I am a working woman with a 9am to 7pm banking job involving long hours of sitting and significant mental stress, what specific health practices or routines, such as diet, exercise, or posture care, should I follow to maintain my physical and mental well-being?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+649,"My husband and I were both born prematurely (I was born at 30 weeks, and he at 32 weeks), and I’m worried if this increases my chances of having a premature delivery with our baby.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+650,"7 month pregnancy me baby ki acchi growth or mental health ke liye diet me kya include karein, kaunsi exercises safe hain, aur kya relaxation techniques adopt karni chahiye?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+651,"My last period started on 26th September 2024, and I believe I am now about 50 days into my pregnancy based on that. Should I schedule my first prenatal appointment now, and are there any early pregnancy symptoms or concerns I should be monitoring at this stage?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+652,"I need a detailed diet plan for a healthy pregnancy that supports my baby’s development and ensures my own nutritional needs are met, considering I’m in my second trimester and have no dietary restrictions.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+653,"Before the 2nd trimester, my baby was kicking a lot more, but now that I’m in the 3rd trimester, his movements have become less frequent and feel slower. Is this normal, or could it be a sign of a potential problem?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+654,"My 7-month-old baby weighs 1200 grams (1.2 kg) and was born prematurely at 32 weeks. Is this weight appropriate for their age and developmental progress, or should I be concerned about their growth?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+655,"Han Mere 6 mahine ke bacche ke gale mein nabhi ki nali fasi hui lag rahi hai, kya iske liye sonography se sahi diagnosis ho sakta hai aur kya turant treatment ki zarurat hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+656,"During breastfeeding, can I pump and store my milk safely in the refrigerator or freezer and feed it to my 2-month-old baby later? If so, how long can it be stored, and what’s the best way to warm it up before feeding?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+657,"Mam, mere pet ke upar wale hissay mein bhut zyada gas ban rahi hai, aur pet fulne ka ehsaas ho raha hai, khaaskar khana khane ke baad ya raat ke samay. Kya yeh kisi digestive problem ki wajah se ho sakta hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+658,"How can I find out if I’m having a baby boy or girl, and at what stage of pregnancy is it typically possible to determine this through ultrasound or other methods?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+659,Can you explain all the details about my recent blood test results and their implications for my health by sharing them in Hindi?,specific,WELL_SPECIFIED,VAGUE,0,VAGUE,0,VAGUE,0,VAGUE,0,VAGUE,0
+660,May I drink tea made with Tulsi and ginger if I have acid reflux and occasionally experience stomach discomfort?,specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+661,"Mera 8th month chal raha hai aur mujhe normal delivery karne ke liye koi exercise, diet ya daily routine ke upaye bataiye jo safe ho aur baby ke health ke liye bhi achhe ho.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+662,"Mujhe first month ki pregnancy hai aur mere peron mein bahut sujan ho rahi hai, khas kar dopahar ke baad ya zyada der khade rehne par. Kya yeh normal hai ya mujhe kisi specific test ya treatment ke liye consult karna chahiye?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+663,"Mera period har mahine time par aata hai, lekin hamesha first day black bleeding hoti hai. Phir beech ke dino mein red bleeding hoti hai, lekin paanchve ya chhatve din se phir se black bleeding shuru ho jaati hai. Kya yeh normal hai ya kisi health issue ka indication ho sakta hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+664,"Mera 8th month of pregnancy start ho gaya hai, aur mujhe lagta hai mera peth bhot tight ho raha hai, khaaskar sham ke time ya jab zyada der tak khadi rehti hoon. Kya yeh normal hai ya kisi dikkat ki nishani ho sakti hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+665,"What nutrient-rich foods should I focus on to support my first-trimester pregnancy, considering I’m experiencing mild morning sickness, and can you suggest daily reminders to help me maintain a healthy routine throughout my pregnancy?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+666,"What routine tests should I take during each trimester of pregnancy to monitor my health and my baby’s development? And what tips can you provide for maintaining a healthy diet, managing stress, and staying active while pregnant?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+667,"1 month ho gaya hai, pet ke niche left side me halka halka pain hota hai, jo din me kabhi kabhi hota hai aur zyada nahi lagta. Kya ye kisi serious problem ka sign ho sakta hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,VAGUE,0,VAGUE,0
+668,"Mera pehla baby C-section se paida hua tha, aur abhi woh agle mahine 2 saal ka ho jayega. Mujhe ye poochhna hai ki kya main ab normal delivery ki planning kar sakti hoon, ya fir phir se C-section ki zarurat hogi?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+669,"Aathven mahine mein baccha pet ke neeche ki taraf ghoom gaya hai aur zyada pressure mehsoos ho raha hai, kya iska matlab hai ki delivery expected date se pehle ho sakti hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+670,"What warning signs should I watch for during my second trimester of pregnancy, specifically related to severe headaches, abdominal pain, or unusual swelling?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+671,"Is it really necessary for me to take the IFA supplement if I am in my second trimester of pregnancy, my recent bloodwork showed slightly low hemoglobin levels, and I’ve been feeling more fatigued than usual?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+672,"My ankles have been swollen for the past two days, and I’ve developed a severe, persistent headache that doesn’t improve with over-the-counter pain relievers; could this be related to a medication I’m taking or an underlying health condition like high blood pressure?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+673,"My due date was 23 November, but today is 25 November, and I still haven't experienced any lower abdominal pain or signs of labor. Should I be concerned, or is this normal, and when should I contact my doctor?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+674,"Kya pregnancy ke 2nd trimester me dry fruits jaise almonds aur walnuts dudh ke sath regularly lena safe hai, aur kya isse baby ki health ya weight par positive effect hoga?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+675,"How can I encourage my child to respect others, focus on their studies effectively, and maintain good physical and mental health as they grow?",specific,WELL_SPECIFIED,VAGUE,0,VAGUE,0,VAGUE,0,VAGUE,0,VAGUE,0
+676,"Mera 3rd month of pregnancy complete ho gaya hai, to kya main almonds, walnuts, aur dates jaise dry fruits kha sakti hoon? Agar haan, to inhe kis quantity mein lena safe hoga?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+677,"How can I recognize that it’s time for my baby to be delivered? What are the key symptoms, such as changes in contractions, water breaking, or signs like lower back pain, that I should watch for in the final weeks of pregnancy?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+678,"Mera baby ki right kidney ultrasound me nahi dikh rahi hai, aur uske pet me pani collect nahi ho raha hai. Iske saath usse sans lene me bhi takleef ho rahi hai, aur doctor ne kaha hai ki is situation ko aur check karna padega. Kya yeh kisi specific condition ki taraf indicate karta hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+679,"I have been experiencing a persistent dry cough for the past few days, and I am 6 months pregnant—could this pose any risk to my baby's health or development?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+680,"At how many weeks of pregnancy can I expect to feel my baby’s movements for the first time, and is it normal if I haven’t felt anything yet at 20 weeks?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+681,"Is it safe for a 7-month pregnant patient to take GES tablets for managing symptoms like nausea or heartburn, and are there any potential risks to the baby or the mother?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1
+682,"Mujhe apna pregnancy month pata karna hai, maine apni last menstrual period (LMP) ki date 15 June ko note ki thi, to kya aap mujhe bata sakte hain ki abhi mera pregnancy ka kaunsa month chal raha hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+683,"I am in week 7 of my pregnancy. What foods should I focus on eating to support a healthy pregnancy, and what types of exercise or daily activities are safe for me to do during this stage?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+684,"Is it safe to wash clothes by hand during the 8th month of pregnancy if it involves standing for long periods, bending frequently, and using detergent with strong chemicals?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+685,"Hospital kab jaye? 8th month chal raha hai, last visit 7th month ke middle mein hui thi, tab ultrasound aur routine check-up hua tha. Ab baby ki movements normal lag rahi hain, lekin kab tak next visit ke liye wait karna safe hoga? Koi specific test ya scan ka time ho toh bataye.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+686,"I am looking for family planning methods and clinics near me that offer affordable options, provide counseling on long-term methods like IUDs or implants, and are accessible by public transport.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1
+687,"Mujhe phela baccha opreshan (C-section) se hua tha, aur abhi meri delivery date ke kareeb 34th week chal raha hai. Kya meri dusri delivery bhi C-section se hi karni padegi, ya normal delivery ka chance ho sakta hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+688,"Bs hm normal delivery chahte h, to uske liye abhi se pregnancy ke 5th month me hote hue diet, exercise aur lifestyle me kya changes karein jo safe aur effective hon?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+689,"Meri age 36 complete ho chuki hai, aur mujhe pehla bacha hai. Kya mere liye normal delivery possible hai, agar meri pregnancy abhi tak complications se free rahi ho aur ultrasound reports theek ayi hain?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+690,"My last menstrual period started on 2nd August, and I believe I am currently in my second trimester. When would be the ideal time for me to schedule an anomaly scan to check on the baby's development and detect any potential abnormalities?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+691,"Mujhe hypothyroidism hai aur main abhi breastfeeding kar rahi hoon, to kya thyroid ke medicine ya hormone levels ka breast milk ki quantity aur quality par koi asar padta hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+692,"Abhi mujhe 7 weeks pregnancy hai aur lower abdomen mein halki, ruk-ruk kar dard ho raha hai aur bohot zyada acidity aur jalan mehsoos ho rahi hai, kya ye normal hai ya mujhe kisi doctor se consult karna chahiye?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+693,"Ye jo center ki location h, kia yahan diabetes check-up aur treatment ke basic tests (jaise sugar level aur BP check) free of cost hote hain, ya koi charges lagte hain?",specific,WELL_SPECIFIED,VAGUE,0,VAGUE,0,WELL_SPECIFIED,1,VAGUE,0,VAGUE,0
+694,"I'm 30 weeks and 6 days pregnant today, and my doctor says the baby is in a breech position. Should I be concerned about this at this stage of pregnancy, and are there any exercises or techniques I can try to help the baby turn head-down naturally?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+695,"Mam, mera weight pichle 2 mahine se kam ho raha hai, aur current haemoglobin level 11.5 h, par energy levels kaafi low lagte hain aur thakan mehsoos hoti hai. Kya yeh kisi specific health issue ka sign ho sakta hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+696,"I have been recommended to take HEAMUP FCM injection for iron deficiency by my doctor, but I’m unsure if it’s the right option for me. My hemoglobin level is currently low, and I’ve been feeling fatigued and lightheaded. Is this injection safe and effective for improving my iron levels, and are there any potential side effects I should watch out for?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+697,"I am 5 months pregnant and my doctor mentioned high resistance blood flow in the uterine arteries during an ultrasound. What could this mean for my pregnancy, and is it a risk to the baby or me?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+698,"My period is 3 days late, and I took a pregnancy test this morning using the first urine of the day. One line on the test was dark, while the second line was faint but visible. Does this mean I’m pregnant, or should I test again to confirm?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+699,"I noticed a very small amount of light red bleeding earlier today after using the bathroom. It wasn’t heavy, but it caught my attention. Should I be concerned or take any specific steps?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1
+700,"Mujhe yah puchna hai ki mere right hand me kalai ke paas aur fingers tak dard ho raha hai, jo raat me aur zyada badh jata hai. Kya ye pregnancy ke 6th month me normal hai, ya mujhe kisi specific test ya doctor ko dikhana chahiye?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+701,"Mene calcium aur iron tablet abi tak nhi liye, aur mera 3rd month of pregnancy complete hone wala hai. Kya isse mere aur baby ki health par koi negative impact ho sakta hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+702,"Level 2 ultrasound kya hota hai, isme kya cheezein check hoti hain, aur pregnancy ke kaunse week, usually 18-22 weeks, me is test ko karne ki salah di jaati hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+703,"Mujhe pichle ek mahine se weekness lag rahi hai, thoda kaam karne par thakan mehsoos hoti hai, aur agar thodi der tak bethun toh kamar ke niche waale hisse me dard hota hai. Saath hi, mujhe din ke dauraan bhi bohot need aati hai, chahe raat ko 7-8 ghante ki neend puri kar loon. Kya yeh kisi medical condition ki nishani ho sakti hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,VAGUE,0,VAGUE,0
+704,Mera baby abhi 32 weeks ka hai aur ultrasound ke mutabiq breech position mein hai. Kya is stage par baby ka position change ho sakta hai aur kya normal delivery possible hogi?,specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+705,"Could you please confirm if the outpatient department (OPD) at GMCH (Gauhati Medical College and Hospital) will be open or closed on 1st January, considering it’s a public holiday? I need to know if regular consultations for chronic condition follow-ups will be available that day.",specific,WELL_SPECIFIED,VAGUE,0,WELL_SPECIFIED,1,VAGUE,0,VAGUE,0,VAGUE,0
+706,"I'm pregnant and my last menstrual period started on 16 Oct 2024. Based on that date, how many weeks along would I be in my pregnancy as of today, and should I calculate it from the start of that period or another point in time?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+707,Is it harmful for the baby if I have a 5 cm dermoid cyst in my left ovary during the second trimester of pregnancy?,specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+708,"What are the safest treatment options for managing appendicitis or a dermoid cyst during the second trimester of pregnancy, and how might these conditions affect the baby and delivery?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+709,"Pregnancy ke 4th month me agar white discharge ho raha ho, jo zyada quantity me ho, ya uska color, smell, ya consistency normal se alag lag raha ho, toh kya yeh kisi problem ki nishani ho sakta hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+710,Pehla baccha operation (C-section) se 5 saal pehle hua tha. Agar ab dusre pregnancy ki planning kar rahe hain toh kya normal delivery possible hai ya sirf C-section hi karwana padega? Koi complications ki possibility toh nahi hogi?,specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1
+711,Pregnancy ke 2nd trimester mein din ke kis specific time par sona aur kis time par khana health ke liye best hoga? Kya aap ek time table bata sakte hain jo morning sickness aur digestion ke liye helpful ho?,specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+712,"I am 32 weeks pregnant and want to ensure everything is progressing normally. What warning signs, such as preterm labor symptoms, changes in fetal movement, or unusual physical discomfort, should I be looking out for at this stage?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+713,"Bachche ki heart beat 160 bpm aur mother ki heart beat 110 bpm tak badh rahi hai, dono ke liye yeh abnormal range hai kya? Kya aise halat me normal delivery possible hoti hai, aur agar haan, toh normal delivery ke chances kitne hote hain?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1
+714,"What healthy foods should I focus on including in my diet during my 18th week of pregnancy to support my baby’s development? Also, could you recommend a good brand of juice that’s safe for pregnant women and low in added sugars?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+715,"Ninth month me pregnancy diet kaisa hona chahiye taaki baby ka weight 3 kg ke aas-paas ho, aur normal delivery ke chances badhein, khaskar agar mujhe thoda low hemoglobin ka issue hai aur abhi tak weight gain normal se kam hua hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+716,"Mujhe apne 7 mahine ke pregnancy ke dauraan aisa kya khana chahie jo mere bacche ki growth healthy ho, uska weight thik rahe aur uski skin bhi acchi ho, aur kya kuch khaane se bachche ka complexion par asar padta hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+717,"My baby seems to be in good health, but I’m feeling unwell. I’m experiencing a painful, persistent itching sensation near my chest, around my heart area. What could be causing this?",specific,WELL_SPECIFIED,VAGUE,0,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0,VAGUE,0
+718,"I’m currently 7 months pregnant, and at my recent check-up, my doctor mentioned that my baby’s weight is 1.2 kg, which seems a bit low for this stage. What can I do through diet or other lifestyle adjustments to help improve my baby’s weight in a healthy way?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+719,"Lately, the smells of foods I usually enjoy have started to irritate me, sometimes making me feel slightly nauseous. Could this be related to a medical condition, hormonal changes, or something else?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,VAGUE,0
+720,"Agar 8 mahine ke ultrasound me pata chale ke bachhe ke gale me amniotic cord ek ya do baar lipti hui hai, to kya normal delivery mumkin hai ya C-section ki zarurat pad sakti hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+721,"Abhi mera 8th month pregnancy complete hone wala hai, kya mujhe iron aur calcium ki medicine leni chahiye aur agar haan, toh kitni dosage mein aur kya khaane ke baad ya khaane se pehle leni chahiye?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+722,"Third C-section delivery hai, is baar recovery mein complications ya kisi specific risk ka dar hai, jaise excessive bleeding ya infection ka. Kya is stage par extra precautions lene ki zarurat hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+723,"Mera pehla baby c-section se hua tha, kyunki delivery ke waqt complications thi (jese fetal distress ya prolonged labor). Ab main dusri baar pregnant hoon aur yeh jaanna chahti hoon ki kya yeh zaroori hai ki dusri delivery bhi c-section se hi ho, ya normal delivery ka option ho sakta hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+724,"2.5 months ho gaye hain pregnancy ko, lekin mujhe na vomiting ho rahi hai aur na hi aur koi common pregnancy symptoms jaise nausea waghera, sirf UPT (urine pregnancy test) positive aaya hai. Kya ye normal hai ya mujhe kisi medical test ya doctor checkup ki zarurat hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+725,"3rd month of pregnancy complete hone ke baad normal pregnancy ke case mein sex karna safe hota hai ya koi risk ho sakta hai, especially agar pehle mild spotting ya cramping hua ho?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+726,"Mujhe ye chinta hai ki mere blood pressure ke high ya low hone ke karan mere 6 mahine ke garbh mein pal rahen bacche ki growth theek se ho rahi hai ya nahi, kyunki mere recent ultrasound reports ke baare mein mujhe zyada clarity nahi mili hai.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+727,"If my last menstrual period (LMP) started on 15/05/2024 and I have regular 28-day cycles, what would be my estimated delivery date based on a full-term pregnancy?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+728,"Coombs test negative hai, toh kya Anti-D injection lagwana zaruri hai agar mera blood group Rh-negative hai aur recent miscarriage ya delivery Rh-positive baby ke saath hui hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+729,"Mera 9 month pregnancy complete ho gaya hai, aur mujhe kab delivery expected hai? Ab tak mujhe koi labor pain nahi hua hai, lekin baby movements theek lag rahe hain. Kya mujhe kisi specific symptoms ka dhyan rakhna chahiye ya doctor ke paas checkup ke liye jana chahiye?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+730,"Mere paid me dard he, jo naabhi ke aas paas aur neeche ke hisse mein zyada mehsoos ho raha he, aur saath mein vomiting bhi ho rahi he, har 2-3 ghante mein. Khaane ki koshish kar raha hoon, par kuch hazam nahi ho raha, aur pet bahut halka sa ful gaya lagta he.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+731,"Mujhe typhoid ho gya h aur me breastfeeding mother hu, qa iska asar mere bachche ki growth pr pdega? Aur is condition me mujhe kaunsi dawa aur diet follow karni chahiye taki typhoid jldi theek ho Jaye aur bachcha safe rahe?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+732,"Mujhe lagta hai ki main 3 mahine ki pregnant hoon, lekin mera pet abhi bhi bilkul flat hai. Kya yeh normal hai, ya mujhe kisi doctor se consult karna chahiye?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+733,"Mujhe roz kaafi tension hoti hai, aksar stress ke wajah se mujhe rona bhi aata hai. Main ek maa hoon aur mere bache ki umar 2 saal hai, toh kya meri mental health ka uski growth ya behavior par koi asar ho sakta hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+734,"Is mahine ke dauran, bacchy ka movement kidhar hota hai aur ye normally kitne hafte ke baad feel honi shuru hoti hai? Kya ye pet ke kisi specific area me mehsoos hota hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+735,"I want to focus on improving my postpartum brain function, such as memory and concentration, and building emotional resilience to better handle the challenges of caring for my 3-month-old baby.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0,VAGUE,0
+736,"Heart rate 147 aye to kya kare agar pulse tez ho to, aur ye resting state me ho raha ho, bina exercise ya physical activity ke, to kya yeh serious concern hai? Saath hi, thoda ghabrahat aur chakkar bhi mehsoos ho raha hai.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,VAGUE,0,VAGUE,0
+737,"5 mahine ka baccha din me thoda so jata hai par raat ko lagataar ghoom nahi raha hai. Kya ismein gas, pet ki dikkat, ya bhukh ka karan ho sakta hai? Bacche ka routine aur dinbhar ka khana thik se mil raha hai, par raat ko kyun pareshaan hai samajh nahi aa raha.",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+738,The trisomy 21 screening result came back as intermediate risk at 1 in 250; I am worried about what this means for my baby and what further tests or steps I should consider.,specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+739,"Can the placenta position change later in pregnancy if you’ve been diagnosed with complete placenta previa during the second trimester ultrasound, and does the likelihood of it moving depend on factors like uterine growth or the initial location of the placenta?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+740,"Can the position of the placenta change later in pregnancy if you’ve been diagnosed with complete placenta previa during your second-trimester ultrasound, and are there factors like uterine growth or activity level that could influence this?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+741,"Mujhe [hospital ka naam] me appointment leni hai dermatology department ke liye, ky aap mujhe waha ke customer care ka contact number de sakte hain?",specific,WELL_SPECIFIED,VAGUE,0,VAGUE,0,VAGUE,0,VAGUE,0,VAGUE,0
+742,"8 mahine ke bachhe ke sehatmand growth ke liye kya proper nutrition chart hoga, aur is umar me solid foods introduce karte waqt kaunse fruits, vegetables, aur cereals include karne chahiye? Kya breastfeeding ke sath complementary foods ka balance kaise maintain karen?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+743,"How can I build a stronger emotional connection with my baby during pregnancy? Do my thoughts, emotions, or actions, such as talking to my baby or managing my stress, have any impact on their brain development or emotional well-being?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+744,"After giving birth to a healthy baby via vaginal delivery, what medications or supplements (such as pain relief, iron, or vitamins) should the mother continue taking if she is breastfeeding and has no pre-existing medical conditions?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+745,"What medicines or injections are recommended for a newborn in the first month after birth to prevent common health issues, such as vitamin deficiencies or infections, and are there specific vaccinations required during this time?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+746,"C-section delivery ke kitne din baad chhati se dard aur bleeding kam hone lagta hai, aur normal daily activities shuru karne ki permission milti hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+747,"Pregnancy ke 20th week me safed discharge ho raha hai, jo thoda zyada lagta hai. Koi smell ya itching nahi hai. Kya yeh normal hai, ya mujhe doctor se consult karna chahiye?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+748,"My last menstrual bleeding started on August 31, and now I believe I am in my sixth month of pregnancy. I haven’t yet seen a doctor or had any prenatal care. What steps should I take to ensure my baby and I stay healthy moving forward?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+749,"13 October ko period aya tha aur ab 4 mahine ho gaye hain, is dauran ultrasound ya doctor checkup nahi karwaya. Bacche ki growth ab kitni honi chahiye aur kya mujhe normal development ke liye kisi checkup ya test ki zarurat hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+750,"Mere twins baby hai, 5 month ka pregnancy chal raha hai, par baby ki movement abhi tak mehsoos nahi ho rahi hai. Kya twin pregnancies mein movement late feel hoti hai, ya yeh kisi samasya ka sanket ho sakta hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+751,"6 mahine ki pregnancy par baby ka approximate weight kitna hona chahiye, aur agar growth expected range se kam ho toh kya measures lena zaruri hoga?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+752,"I am currently two and a half months pregnant; what foods, supplements, and habits should I prioritize to ensure the healthy development of my baby during this stage?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+753,"Mujhe aur mere 6 mahine ke baby ke liye health tips chahiye, jaise unki immunity kaise badhayein, unhe sahi nutrition kaise mile, aur unka development healthy rahe iske liye kya karein?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+754,"Agar white discharge thick ya jelly jesa ho aur uske sath itching, smell, ya discomfort ho raha ho, toh kya karna chahiye?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+755,"Mera bachcha 6 mahine ka hai, aur nurse keh rahi thi ki 6 mahine ke bachchon ke hisaab se uski lambai aur wazan dono thode kam hain. Kya mujhe iske liye kisi specific doctor ko dikhana chahiye, ya is umar mein ye normal ho sakta hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1,VAGUE,0
+756,"Mera baby 5 mahine ka ho gaya hai, lekin mujhe lagta hai ki uska weight ya height uske age ke hisaab se kam hai. Kya mujhe uski growth ke liye specific diet ya doctor ke check-up ki zarurat hai?",specific,WELL_SPECIFIED,WELL_SPECIFIED,1,VAGUE,0,WELL_SPECIFIED,1,WELL_SPECIFIED,1,WELL_SPECIFIED,1
+,,,,,,,,,,,,,
+,FINAL SCORES,,,,,,,,,,,,
+,gpt-4o,479/504 correct,95.0% accuracy,,,,,,,,,,
+,gpt-4-turbo,465/504 correct,92.3% accuracy,,,,,,,,,,
+,gpt-4o-mini,485/504 correct,96.2% accuracy,,,,,,,,,,
+,gpt-4.1-mini,462/504 correct,91.7% accuracy,,,,,,,,,,
+,gpt-4.1-nano,424/504 correct,84.1% accuracy,,,,,,,,,,
